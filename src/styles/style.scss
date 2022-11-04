@@ -3,4 +3,10 @@
 
 //variables
 @import './variables/colors';
+@import './variables/spacing';
 @import './variables/viewport';
+
+//layout
+@import './layout/container';
+@import './layout/nav';
+@import './layout/footer';
