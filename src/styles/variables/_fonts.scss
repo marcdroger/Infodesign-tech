@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'Satoshi-Bold';
+  font-weight: 700;
+  font-display: swap;
+  font-style: normal;
+  src:
+    url('/fonts/basiercircle-regular-webfont.eot'),
+    url('/fonts/Satoshi-Bold.woff2') format('woff2'),
+    url('/fonts/Satoshi-Bold.woff') format('woff'),
+    url('/fonts/Satoshi-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Basier-circle-Regular';
+  font-weight: normal;
+  font-style: normal;
+  src:
+    url('/fonts/basiercircle-regular-webfont.eot'),
+    url('/fonts/basiercircle-regular-webfont.woff2') format('woff2'),
+    url('/fonts/basiercircle-regular-webfont.woff') format('woff'),
+    url('/fonts/basiercircle-regular-webfont.ttf') format('truetype');
+}
