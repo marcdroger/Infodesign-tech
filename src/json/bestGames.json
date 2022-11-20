@@ -1,0 +1,353 @@
+
+[
+  {
+    "name": "The Legend of Zelda: Ocarina of Time",
+    "platform": "Nintendo 64",
+    "release": "1998-11-23",
+    "score": "99",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3nnx.png"
+  },
+  {
+    "name": "Tony Hawk's Pro Skater 2",
+    "platform": "PlayStation",
+    "release": "2000-9-20",
+    "score": "98",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1y77.png"
+  },
+  {
+    "name": "Grand Theft Auto IV",
+    "platform": "PlayStation 3",
+    "release": "2008-4-29",
+    "score": "98",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lbv.png"
+  },
+  {
+    "name": "SoulCalibur",
+    "platform": "Dreamcast",
+    "release": "1999-9-8",
+    "score": "98",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1x6g.png"
+  },
+  {
+    "name": "Super Mario Galaxy",
+    "platform": "Wii",
+    "release": "2007-11-12",
+    "score": "97",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co21ro.png"
+  },
+  {
+    "name": "Super Mario Galaxy 2",
+    "platform": "Wii",
+    "release": "2010-5-23",
+    "score": "97",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co21tl.png"
+  },
+  {
+    "name": "Red Dead Redemption 2",
+    "platform": "Xbox One",
+    "release": "2018-10-26",
+    "score": "97",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1q1f.png"
+  },
+  {
+    "name": "Grand Theft Auto V",
+    "platform": "PlayStation 3",
+    "release": "2013-9-17",
+    "score": "97",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lbd.png"
+  },
+  {
+    "name": "Disco Elysium: The Final Cut",
+    "platform": "PC",
+    "release": "2021-3-30",
+    "score": "97",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ve1.png"
+  },
+  {
+    "name": "The Legend of Zelda: Breath of the Wild",
+    "platform": "Switch",
+    "release": "2017-3-3",
+    "score": "97",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3p2d.png"
+  },
+  {
+    "name": "Tony Hawk's Pro Skater 3",
+    "platform": "PlayStation 2",
+    "release": "2001-10-28",
+    "score": "97",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2nj3.png"
+  },
+  {
+    "name": "Perfect Dark",
+    "platform": "Nintendo 64",
+    "release": "2000-5-22",
+    "score": "97",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co25jr.png"
+  },
+  {
+    "name": "Metroid Prime",
+    "platform": "GameCube",
+    "release": "2002-11-17",
+    "score": "97",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3w4w.png"
+  },
+  {
+    "name": "Grand Theft Auto III",
+    "platform": "PlayStation 2",
+    "release": "2001-10-22",
+    "score": "97",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lb8.png"
+  },
+  {
+    "name": "Super Mario Odyssey",
+    "platform": "Switch",
+    "release": "2017-1",
+    "score": "97",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1mxf.png"
+  },
+  {
+    "name": "Halo: Combat Evolved",
+    "platform": "Xbox",
+    "release": "2001-11-14",
+    "score": "97",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2r2r.png"
+  },
+  {
+    "name": "NFL 2K1",
+    "platform": "Dreamcast",
+    "release": "2000-9-7",
+    "score": "97",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co40uf.png"
+  },
+  {
+    "name": "Half-Life 2",
+    "platform": "PC",
+    "release": "2004-11-16",
+    "score": "96",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1nmw.png"
+  },
+  {
+    "name": "BioShock",
+    "platform": "Xbox 360",
+    "release": "2007-8-21",
+    "score": "96",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2mli.png"
+  },
+  {
+    "name": "GoldenEye 007",
+    "platform": "Nintendo 64",
+    "release": "1997-8-25",
+    "score": "96",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co25w8.png"
+  },
+  {
+    "name": "Uncharted 2: Among Thieves",
+    "platform": "PlayStation 3",
+    "release": "2009-10-13",
+    "score": "96",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tnb.png"
+  },
+  {
+    "name": "Resident Evil 4",
+    "platform": "GameCube",
+    "release": "2005-1-11",
+    "score": "96",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2wk8.png"
+  },
+  {
+    "name": "Batman: Arkham City",
+    "platform": "PlayStation 3",
+    "release": "2011-10-18",
+    "score": "96",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1voh.png"
+  },
+  {
+    "name": "Tekken 3",
+    "platform": "PlayStation",
+    "release": "1998-4-29",
+    "score": "96",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3tsh.png"
+  },
+  {
+    "name": "Elden Ring",
+    "platform": "PC",
+    "release": "2022-2-25",
+    "score": "96",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4jni.png"
+  },
+  {
+    "name": "Mass Effect 2",
+    "platform": "Xbox 360",
+    "release": "2010-1-26",
+    "score": "96",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20ac.png"
+  },
+  {
+    "name": "The Legend of Zelda: Twilight Princess",
+    "platform": "GameCube",
+    "release": "2006-12-11",
+    "score": "96",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3mtv.png"
+  },
+  {
+    "name": "The Elder Scrolls V: Skyrim",
+    "platform": "Xbox 360",
+    "release": "2011-11-11",
+    "score": "96",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tnw.png"
+  },
+  {
+    "name": "Half-Life",
+    "platform": "PC",
+    "release": "2005-10-25",
+    "score": "96",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tnt.png"
+  },
+  {
+    "name": "The Legend of Zelda: The Wind Waker",
+    "platform": "GameCube",
+    "release": "2003-3-24",
+    "score": "96",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3ohz.png"
+  },
+  {
+    "name": "Gran Turismo",
+    "platform": "PlayStation",
+    "release": "1998-4-30",
+    "score": "96",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1pd3.png"
+  },
+  {
+    "name": "Metal Gear Solid 2: Sons of Liberty",
+    "platform": "PlayStation 2",
+    "release": "2001-11-12",
+    "score": "96",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5e1c.png"
+  },
+  {
+    "name": "Baldur's Gate II: Shadows of Amn",
+    "platform": "PC",
+    "release": "2000-9-24",
+    "score": "95",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1y4w.png"
+  },
+  {
+    "name": "Grand Theft Auto: San Andreas",
+    "platform": "PlayStation 2",
+    "release": "2004-10-26",
+    "score": "95",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lb9.png"
+  },
+  {
+    "name": "Persona 5 Royal",
+    "platform": "PC",
+    "release": "2022-10-21",
+    "score": "95",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1nic.png"
+  },
+  {
+    "name": "Grand Theft Auto: Vice City",
+    "platform": "PlayStation 2",
+    "release": "2002-10-27",
+    "score": "95",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lbb.png"
+  },
+  {
+    "name": "LittleBigPlanet",
+    "platform": "PlayStation 3",
+    "release": "2008-10-27",
+    "score": "95",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4p0f.png"
+  },
+  {
+    "name": "Red Dead Redemption",
+    "platform": "PlayStation 3",
+    "release": "2010-5-18",
+    "score": "95",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lcv.png"
+  },
+  {
+    "name": "Gran Turismo 3: A-Spec",
+    "platform": "PlayStation 2",
+    "release": "2001-7-9",
+    "score": "95",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20ae.png"
+  },
+  {
+    "name": "Halo 2",
+    "platform": "Xbox",
+    "release": "2004-11-9",
+    "score": "95",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1x77.png"
+  },
+  {
+    "name": "The Legend of Zelda: Majora's Mask",
+    "platform": "Nintendo 64",
+    "release": "2000-10-25",
+    "score": "95",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3pah.png"
+  },
+  {
+    "name": "The Last of Us",
+    "platform": "PlayStation 3",
+    "release": "2013-6-14",
+    "score": "95",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r7f.png"
+  },
+  {
+    "name": "Portal 2",
+    "platform": "Xbox 360",
+    "release": "2011-4-18",
+    "score": "95",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rs4.png"
+  },
+  {
+    "name": "Metal Gear Solid V: The Phantom Pain",
+    "platform": "Xbox One",
+    "release": "2015-9-1",
+    "score": "95",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1v85.png"
+  },
+  {
+    "name": "BioShock Infinite",
+    "platform": "PlayStation 3",
+    "release": "2013-3-26",
+    "score": "94",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2n12.png"
+  },
+  {
+    "name": "Final Fantasy IX",
+    "platform": "PlayStation",
+    "release": "2000-11-13",
+    "score": "94",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2unc.png"
+  },
+  {
+    "name": "Call of Duty: Modern Warfare 2",
+    "platform": "PlayStation 3",
+    "release": "2009-11-10",
+    "score": "94",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3cwt.png"
+  },
+  {
+    "name": "God of War",
+    "platform": "PlayStation 4",
+    "release": "2018-4-20",
+    "score": "94",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tmu.png"
+  },
+  {
+    "name": "Tony Hawk's Pro Skater 4",
+    "platform": "PlayStation 2",
+    "release": "2002-10-23",
+    "score": "94",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co48wx.png"
+  },
+  {
+    "name": "Devil May Cry",
+    "platform": "PlayStation 2",
+    "release": "2001-10-16",
+    "score": "94",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5j4b.png"
+  }
+]
