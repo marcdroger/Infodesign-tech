@@ -1,4 +1,5 @@
 nav {
+  color: $white;
   position: fixed;
   top: 0;
   left: 0;
@@ -6,6 +7,3 @@ nav {
   padding: $space-lg 0;
 }
 
-nav h1 {
-  font-family: 'Basier-circle-Regular';
-}

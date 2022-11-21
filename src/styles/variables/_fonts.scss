@@ -20,3 +20,16 @@
     url('/fonts/basiercircle-regular-webfont.woff') format('woff'),
     url('/fonts/basiercircle-regular-webfont.ttf') format('truetype');
 }
+
+h1,
+h2,
+h3 {
+  font-family: 'Satoshi-bold';
+  line-height: 1.2;
+}
+
+p,
+a,
+li {
+  font-family: 'Basier-circle-Regular'
+}

@@ -1,7 +1,7 @@
 <template>
   <nav>
     <div class="container">
-      <h1>I am sticky nav</h1>
+      <h1>Top Games</h1>
     </div>
   </nav>
 </template>

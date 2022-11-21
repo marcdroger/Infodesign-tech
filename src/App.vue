@@ -6,21 +6,30 @@
 <template>
   <div>
     <Nav />
-    <header>
+    <main>
+      <header>
+        <div class="container">
+          <h1>Top {{games.length}} Games according to Metacritic.com</h1>
+          <a href="https://www.metacritic.com/browse/games/score/metascore/all/all/filtered" target="_blank">metacritic.com</a>
+        </div>
+      </header>
       <div class="container">
-        <h1>Hello world</h1>
-        <p>Total Games: {{myJson.length}}</p>
-      </div>
-    </header>
-    <main class="games">
-      <div class="container">
-        <!-- TODO: extra: background game change on mousehover + music? -->
-        <ul v-for="game in myJson" :key="game.id">
-          <li>
-            <img :src="game.boxart" alt={{game.name}} />
+        <ul class="games">
+          <li v-for="game in games" :key="game.id">
+            <!-- TODO: play audio effect on hover? -->
+            <!-- TODO: add overlay mobile -->
+            <img :src="game.boxart" :alt=game.name @mouseenter="play" @mouseleave="stop" />
             <h2>{{ game.name }}</h2>
             <p>{{ game.platform }}</p>
             <p>{{ game.release }}</p>
+            <!-- FIXME: hover score scaling -->
+            <p class="games__score">{{ game.score }}</p>
+            <div class="video">
+              <video loop :key="game.id" muted ref="video" :id="game.id">
+                <source :src="game.video" type="video/mp4" />
+                This browser does not support video :(
+              </video>
+            </div>
           </li>
         </ul>
       </div>
@@ -35,8 +44,18 @@
   export default {
     data() {
       return {
-        myJson: json
+        games: json,
       }
-    }
+    },
+    methods: {
+        play() {
+          console.log('enter');
+          //this.$refs.video.play();
+          console.log(this.$refs.video);
+        },
+        stop() {
+          console.log('leave');
+        }
+      }
   }
 </script>

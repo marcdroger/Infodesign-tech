@@ -1,15 +1,35 @@
 .games {
+  color: $white;
+  display: flex;
+
+  li {
+    margin-right: $space-3xl;
+    position: relative;
+  }
+
   img {
     border-radius: 8px;
     cursor: pointer;
-    transition: transform 0.05s ease;
+    transition: transform 0.08s ease;
 
     &:hover {
       transform: scale(1.1)
     }
   }
 
-  h2, p {
-    color: $white;
+  h2 {
+    margin-top: $space-md;
+    width: 90%;
+  }
+
+  &__score {
+    font-family: 'Satoshi-Bold';
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: $green;
+    padding: $space-md;
+    border-bottom-left-radius: 8px;
+    font-size: $text-lg;
   }
 }
