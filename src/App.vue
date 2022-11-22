@@ -1,6 +1,21 @@
 <script setup>
+  import { onMounted } from 'vue';
+
   import Nav from './components/layout/Nav.vue';
   import Footer from './components/layout/Footer.vue';
+
+  //get all background videos once vue has rendered
+  onMounted(() => {
+    const videos = document.querySelectorAll('video');
+
+    //observe every video
+    videos.forEach(video => {
+      observer.observe(video);
+      //prevents users having tinnitus
+      video.volume = 0.3;
+    })
+  })
+
 </script>
 
 <template>
@@ -10,30 +25,27 @@
       <header>
         <div class="container">
           <h1>Top {{games.length}} Games according to Metacritic.com</h1>
-          <p><a href="https://www.metacritic.com/browse/games/score/metascore/all/all/filtered" target="_blank">metacritic.com</a><a href="https://www.vgchartz.com/">vgchartz.com</a></p>
+          <p><a href="https://www.metacritic.com/browse/games/score/metascore/all/all/filtered" target="_blank">metacritic.com</a> & <a href="https://www.vgchartz.com/">vgchartz.com</a></p>
+          <button>check</button>
         </div>
       </header>
-      <div class="container">
-        <ul class="games">
-          <li v-for="game in games" :key="game.id">
-            <!-- TODO: play audio effect on hover? -->
-            <!-- TODO: add overlay mobile -->
+      <ul class="games">
+        <li v-for="game in games" :key="game.id">
+          <!-- TODO: add overlay -->
+          <p class="games__score">{{ game.score }}</p>
+          <video loop preload="metadata">
+            <source :src="game.video" type="video/mp4" />
+            This browser does not support video :(
+          </video>
+          <div class="container">
             <img :src="game.boxart" :alt=game.name @mouseenter="play" @mouseleave="stop" />
             <h2>{{ game.name }}</h2>
             <p>{{ game.platform }}</p>
             <p>{{ game.release }}</p>
             <p>{{ game.sales }}</p>
-            <!-- FIXME: hover score scaling -->
-            <p class="games__score">{{ game.score }}</p>
-            <div class="video">
-              <video loop :key="game.id" muted ref="video" :id="game.id" preload="none">
-                <source :src="game.video" type="video/mp4" />
-                This browser does not support video :(
-              </video>
-            </div>
-          </li>
-        </ul>
-      </div>
+          </div>
+        </li>
+      </ul>
     </main>
     <Footer />
   </div>
@@ -42,21 +54,28 @@
 <script>
   import json from './json/bestGames.json';
 
+  //create the observer api for checking if video is in viewport user
+  const observer = new IntersectionObserver(entries => {
+    //loop every video
+    entries.forEach(entry => {
+      //if video is in viewport play video, otherwise pause video
+      if(entry.isIntersecting) {
+        entry.target.play();
+      } else {
+        entry.target.pause();
+      }
+    })
+  },
+  {
+    rootMargin: "-550px",
+  }
+  );
+
   export default {
     data() {
       return {
         games: json,
       }
-    },
-    methods: {
-        play() {
-          console.log('enter');
-          //this.$refs.video.play();
-          console.log(this.$refs.video);
-        },
-        stop() {
-          console.log('leave');
-        }
-      }
+    }
   }
 </script>

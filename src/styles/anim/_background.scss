@@ -2,8 +2,6 @@ body {
   background: linear-gradient(-45deg, $blue-light, $blue-dark);
   background-size: 400% 400%;
   animation: background 15s ease infinite;
-  height: 100vh;
-  overflow-y: hidden;
 }
 
 @keyframes background {
