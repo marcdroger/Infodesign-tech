@@ -6,6 +6,7 @@
     "platform": "Nintendo 64",
     "release": "1998-11-23",
     "score": "99",
+    "sales": "7,600,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3nnx.png",
     "video": "/video/zelda-ocarina.mp4"
   },
@@ -15,6 +16,7 @@
     "platform": "PlayStation",
     "release": "2000-9-20",
     "score": "98",
+    "sales": "4,680,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1y77.png",
     "video": "/video/thps2.mp4"
   },
@@ -24,6 +26,7 @@
     "platform": "PlayStation 3",
     "release": "2008-4-29",
     "score": "98",
+    "sales": "25,000,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lbv.png",
     "video": "/video/gta4.mp4"
   },
@@ -33,6 +36,7 @@
     "platform": "Dreamcast",
     "release": "1999-9-8",
     "score": "98",
+    "sales": "1,000,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1x6g.png",
     "video": "/video/soulcalibur.mp4"
   },
@@ -42,6 +46,7 @@
     "platform": "Wii",
     "release": "2007-11-12",
     "score": "97",
+    "sales": "12,800,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co21ro.png",
     "video": "/video/mario-galaxy.mp4"
   },
@@ -51,6 +56,7 @@
     "platform": "Wii",
     "release": "2010-5-23",
     "score": "97",
+    "sales": "7,410,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co21tl.png",
     "video": ""
   },
@@ -60,6 +66,7 @@
     "platform": "Xbox One",
     "release": "2018-10-26",
     "score": "97",
+    "sales": "46,000,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1q1f.png",
     "video": ""
   },
@@ -69,6 +76,7 @@
     "platform": "PlayStation 3",
     "release": "2013-9-17",
     "score": "97",
+    "sales": "170,000,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lbd.png",
     "video": ""
   },
@@ -78,6 +86,7 @@
     "platform": "PC",
     "release": "2021-3-30",
     "score": "97",
+    "sales": "",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ve1.png",
     "video": ""
   },
@@ -87,6 +96,7 @@
     "platform": "Switch",
     "release": "2017-3-3",
     "score": "97",
+    "sales": "29,490,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3p2d.png",
     "video": ""
   },
@@ -96,6 +106,7 @@
     "platform": "PlayStation 2",
     "release": "2001-10-28",
     "score": "97",
+    "sales": "4,410,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2nj3.png",
     "video": ""
   },
@@ -105,6 +116,7 @@
     "platform": "Nintendo 64",
     "release": "2000-5-22",
     "score": "97",
+    "sales": "3,200,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co25jr.png",
     "video": ""
   },
@@ -114,6 +126,7 @@
     "platform": "GameCube",
     "release": "2002-11-17",
     "score": "97",
+    "sales": "2,840,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3w4w.png",
     "video": ""
   },
@@ -123,6 +136,7 @@
     "platform": "PlayStation 2",
     "release": "2001-10-22",
     "score": "97",
+    "sales": "14,500,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lb8.png",
     "video": ""
   },
@@ -132,6 +146,7 @@
     "platform": "Switch",
     "release": "2017-1",
     "score": "97",
+    "sales": "24,400,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1mxf.png",
     "video": ""
   },
@@ -141,6 +156,7 @@
     "platform": "Xbox",
     "release": "2001-11-14",
     "score": "97",
+    "sales": "5,000,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2r2r.png",
     "video": ""
   },
@@ -150,6 +166,7 @@
     "platform": "Dreamcast",
     "release": "2000-9-7",
     "score": "97",
+    "sales": "1,090,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co40uf.png",
     "video": ""
   },
@@ -159,6 +176,7 @@
     "platform": "PC",
     "release": "2004-11-16",
     "score": "96",
+    "sales": "12,000,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1nmw.png",
     "video": ""
   },
@@ -168,6 +186,7 @@
     "platform": "Xbox 360",
     "release": "2007-8-21",
     "score": "96",
+    "sales": "4,000,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2mli.png",
     "video": ""
   },
@@ -177,6 +196,7 @@
     "platform": "Nintendo 64",
     "release": "1997-8-25",
     "score": "96",
+    "sales": "8,090,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co25w8.png",
     "video": ""
   },
@@ -186,6 +206,7 @@
     "platform": "PlayStation 3",
     "release": "2009-10-13",
     "score": "96",
+    "sales": "6,000,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tnb.png",
     "video": ""
   },
@@ -195,6 +216,7 @@
     "platform": "GameCube",
     "release": "2005-1-11",
     "score": "96",
+    "sales": "12,100,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2wk8.png",
     "video": ""
   },
@@ -204,6 +226,7 @@
     "platform": "PlayStation 3",
     "release": "2011-10-18",
     "score": "96",
+    "sales": "12,500,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1voh.png",
     "video": ""
   },
@@ -213,6 +236,7 @@
     "platform": "PlayStation",
     "release": "1998-4-29",
     "score": "96",
+    "sales": "8,360,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3tsh.png",
     "video": ""
   },
@@ -222,6 +246,7 @@
     "platform": "PC",
     "release": "2022-2-25",
     "score": "96",
+    "sales": "17,500,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4jni.png",
     "video": ""
   },
@@ -231,6 +256,7 @@
     "platform": "Xbox 360",
     "release": "2010-1-26",
     "score": "96",
+    "sales": "3,100,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20ac.png",
     "video": ""
   },
@@ -240,6 +266,7 @@
     "platform": "GameCube",
     "release": "2006-12-11",
     "score": "96",
+    "sales": "7,260,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3mtv.png",
     "video": ""
   },
@@ -249,6 +276,7 @@
     "platform": "Xbox 360",
     "release": "2011-11-11",
     "score": "96",
+    "sales": "30,000,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tnw.png",
     "video": ""
   },
@@ -258,6 +286,7 @@
     "platform": "PC",
     "release": "2005-10-25",
     "score": "96",
+    "sales": "9,300,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tnt.png",
     "video": ""
   },
@@ -267,6 +296,7 @@
     "platform": "GameCube",
     "release": "2003-3-24",
     "score": "96",
+    "sales": "4,430,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3ohz.png",
     "video": ""
   },
@@ -276,6 +306,7 @@
     "platform": "PlayStation",
     "release": "1998-4-30",
     "score": "96",
+    "sales": "10,850,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1pd3.png",
     "video": ""
   },
@@ -285,6 +316,7 @@
     "platform": "PlayStation 2",
     "release": "2001-11-12",
     "score": "96",
+    "sales": "7,000,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5e1c.png",
     "video": ""
   },
@@ -294,6 +326,7 @@
     "platform": "PC",
     "release": "2000-9-24",
     "score": "95",
+    "sales": "2,000,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1y4w.png",
     "video": ""
   },
@@ -303,6 +336,7 @@
     "platform": "PlayStation 2",
     "release": "2004-10-26",
     "score": "95",
+    "sales": "27,500,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lb9.png",
     "video": ""
   },
@@ -312,6 +346,7 @@
     "platform": "PC",
     "release": "2022-10-21",
     "score": "95",
+    "sales": "5,000,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1nic.png",
     "video": ""
   },
@@ -321,6 +356,7 @@
     "platform": "PlayStation 2",
     "release": "2002-10-27",
     "score": "95",
+    "sales": "17,500,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lbb.png",
     "video": ""
   },
@@ -330,6 +366,7 @@
     "platform": "PlayStation 3",
     "release": "2008-10-27",
     "score": "95",
+    "sales": "4,500,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4p0f.png",
     "video": ""
   },
@@ -339,6 +376,7 @@
     "platform": "PlayStation 3",
     "release": "2010-5-18",
     "score": "95",
+    "sales": "23,000,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lcv.png",
     "video": ""
   },
@@ -348,6 +386,7 @@
     "platform": "PlayStation 2",
     "release": "2001-7-9",
     "score": "95",
+    "sales": "14,890,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20ae.png",
     "video": ""
   },
@@ -357,6 +396,7 @@
     "platform": "Xbox",
     "release": "2004-11-9",
     "score": "95",
+    "sales": "8,000,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1x77.png",
     "video": ""
   },
@@ -366,6 +406,7 @@
     "platform": "Nintendo 64",
     "release": "2000-10-25",
     "score": "95",
+    "sales": "3,360,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3pah.png",
     "video": ""
   },
@@ -375,15 +416,17 @@
     "platform": "PlayStation 3",
     "release": "2013-6-14",
     "score": "95",
+    "sales": "8,150,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r7f.png",
     "video": ""
   },
   {
     "id": 43,
     "name": "Portal 2",
-    "platform": "Xbox 360",
+    "platform": "PC",
     "release": "2011-4-18",
     "score": "95",
+    "sales": "13,060,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rs4.png",
     "video": ""
   },
@@ -393,6 +436,7 @@
     "platform": "Xbox One",
     "release": "2015-9-1",
     "score": "95",
+    "sales": "6,000,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1v85.png",
     "video": ""
   },
@@ -402,6 +446,7 @@
     "platform": "PlayStation 3",
     "release": "2013-3-26",
     "score": "94",
+    "sales": "11,000,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2n12.png",
     "video": ""
   },
@@ -411,6 +456,7 @@
     "platform": "PlayStation",
     "release": "2000-11-13",
     "score": "94",
+    "sales": "5,830,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2unc.png",
     "video": ""
   },
@@ -420,6 +466,7 @@
     "platform": "PlayStation 3",
     "release": "2009-11-10",
     "score": "94",
+    "sales": "22,700,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3cwt.png",
     "video": ""
   },
@@ -429,6 +476,7 @@
     "platform": "PlayStation 4",
     "release": "2018-4-20",
     "score": "94",
+    "sales": "23,000,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tmu.png",
     "video": ""
   },
@@ -438,6 +486,7 @@
     "platform": "PlayStation 2",
     "release": "2002-10-23",
     "score": "94",
+    "sales": "3,670,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co48wx.png",
     "video": ""
   },
@@ -447,6 +496,7 @@
     "platform": "PlayStation 2",
     "release": "2001-10-16",
     "score": "94",
+    "sales": "2,160,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5j4b.png",
     "video": ""
   }

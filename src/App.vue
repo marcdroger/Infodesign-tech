@@ -10,7 +10,7 @@
       <header>
         <div class="container">
           <h1>Top {{games.length}} Games according to Metacritic.com</h1>
-          <a href="https://www.metacritic.com/browse/games/score/metascore/all/all/filtered" target="_blank">metacritic.com</a>
+          <p><a href="https://www.metacritic.com/browse/games/score/metascore/all/all/filtered" target="_blank">metacritic.com</a><a href="https://www.vgchartz.com/">vgchartz.com</a></p>
         </div>
       </header>
       <div class="container">
@@ -22,10 +22,11 @@
             <h2>{{ game.name }}</h2>
             <p>{{ game.platform }}</p>
             <p>{{ game.release }}</p>
+            <p>{{ game.sales }}</p>
             <!-- FIXME: hover score scaling -->
             <p class="games__score">{{ game.score }}</p>
             <div class="video">
-              <video loop :key="game.id" muted ref="video" :id="game.id">
+              <video loop :key="game.id" muted ref="video" :id="game.id" preload="none">
                 <source :src="game.video" type="video/mp4" />
                 This browser does not support video :(
               </video>
