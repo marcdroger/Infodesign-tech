@@ -138,7 +138,7 @@
     "score": "97",
     "sales": "14,500,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lb8.png",
-    "video": ""
+    "video": "/video/gta3.mp4"
   },
   {
     "id": 15,
@@ -158,30 +158,20 @@
     "score": "97",
     "sales": "5,000,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2r2r.png",
-    "video": ""
+    "video": "/video/halo1.mp4"
   },
   {
     "id": 17,
-    "name": "NFL 2K1",
-    "platform": "Dreamcast",
-    "release": "2000-9-7",
-    "score": "97",
-    "sales": "1,090,000",
-    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co40uf.png",
-    "video": ""
-  },
-  {
-    "id": 18,
     "name": "Half-Life 2",
     "platform": "PC",
     "release": "2004-11-16",
     "score": "96",
     "sales": "12,000,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1nmw.png",
-    "video": ""
+    "video": "/video/hl2.mp4"
   },
   {
-    "id": 19,
+    "id": 18,
     "name": "BioShock",
     "platform": "Xbox 360",
     "release": "2007-8-21",
@@ -191,17 +181,17 @@
     "video": ""
   },
   {
-    "id": 20,
+    "id": 19,
     "name": "GoldenEye 007",
     "platform": "Nintendo 64",
     "release": "1997-8-25",
     "score": "96",
     "sales": "8,090,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co25w8.png",
-    "video": ""
+    "video": "/video/goldeneye.mp4"
   },
   {
-    "id": 21,
+    "id": 20,
     "name": "Uncharted 2: Among Thieves",
     "platform": "PlayStation 3",
     "release": "2009-10-13",
@@ -211,17 +201,17 @@
     "video": ""
   },
   {
-    "id": 22,
+    "id": 21,
     "name": "Resident Evil 4",
     "platform": "GameCube",
     "release": "2005-1-11",
     "score": "96",
     "sales": "12,100,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2wk8.png",
-    "video": ""
+    "video": "/video/res4.mp4"
   },
   {
-    "id": 23,
+    "id": 22,
     "name": "Batman: Arkham City",
     "platform": "PlayStation 3",
     "release": "2011-10-18",
@@ -231,7 +221,7 @@
     "video": ""
   },
   {
-    "id": 24,
+    "id": 23,
     "name": "Tekken 3",
     "platform": "PlayStation",
     "release": "1998-4-29",
@@ -241,7 +231,7 @@
     "video": ""
   },
   {
-    "id": 25,
+    "id": 24,
     "name": "Elden Ring",
     "platform": "PC",
     "release": "2022-2-25",
@@ -251,7 +241,7 @@
     "video": ""
   },
   {
-    "id": 26,
+    "id": 25,
     "name": "Mass Effect 2",
     "platform": "Xbox 360",
     "release": "2010-1-26",
@@ -261,7 +251,7 @@
     "video": ""
   },
   {
-    "id": 27,
+    "id": 26,
     "name": "The Legend of Zelda: Twilight Princess",
     "platform": "GameCube",
     "release": "2006-12-11",
@@ -271,7 +261,7 @@
     "video": ""
   },
   {
-    "id": 28,
+    "id": 27,
     "name": "The Elder Scrolls V: Skyrim",
     "platform": "Xbox 360",
     "release": "2011-11-11",
@@ -281,7 +271,7 @@
     "video": ""
   },
   {
-    "id": 29,
+    "id": 28,
     "name": "Half-Life",
     "platform": "PC",
     "release": "2005-10-25",
@@ -291,7 +281,7 @@
     "video": ""
   },
   {
-    "id": 30,
+    "id": 29,
     "name": "The Legend of Zelda: The Wind Waker",
     "platform": "GameCube",
     "release": "2003-3-24",
@@ -301,7 +291,7 @@
     "video": ""
   },
   {
-    "id": 31,
+    "id": 30,
     "name": "Gran Turismo",
     "platform": "PlayStation",
     "release": "1998-4-30",
@@ -311,7 +301,7 @@
     "video": ""
   },
   {
-    "id": 32,
+    "id": 31,
     "name": "Metal Gear Solid 2: Sons of Liberty",
     "platform": "PlayStation 2",
     "release": "2001-11-12",
@@ -321,7 +311,7 @@
     "video": ""
   },
   {
-    "id": 33,
+    "id": 32,
     "name": "Baldur's Gate II: Shadows of Amn",
     "platform": "PC",
     "release": "2000-9-24",
@@ -331,7 +321,7 @@
     "video": ""
   },
   {
-    "id": 34,
+    "id": 33,
     "name": "Grand Theft Auto: San Andreas",
     "platform": "PlayStation 2",
     "release": "2004-10-26",
@@ -341,7 +331,7 @@
     "video": ""
   },
   {
-    "id": 35,
+    "id": 34,
     "name": "Persona 5 Royal",
     "platform": "PC",
     "release": "2022-10-21",
@@ -351,7 +341,7 @@
     "video": ""
   },
   {
-    "id": 36,
+    "id": 35,
     "name": "Grand Theft Auto: Vice City",
     "platform": "PlayStation 2",
     "release": "2002-10-27",
@@ -361,7 +351,7 @@
     "video": ""
   },
   {
-    "id": 37,
+    "id": 36,
     "name": "LittleBigPlanet",
     "platform": "PlayStation 3",
     "release": "2008-10-27",
@@ -371,7 +361,7 @@
     "video": ""
   },
   {
-    "id": 38,
+    "id": 37,
     "name": "Red Dead Redemption",
     "platform": "PlayStation 3",
     "release": "2010-5-18",
@@ -381,7 +371,7 @@
     "video": ""
   },
   {
-    "id": 39,
+    "id": 38,
     "name": "Gran Turismo 3: A-Spec",
     "platform": "PlayStation 2",
     "release": "2001-7-9",
@@ -391,7 +381,7 @@
     "video": ""
   },
   {
-    "id": 40,
+    "id": 39,
     "name": "Halo 2",
     "platform": "Xbox",
     "release": "2004-11-9",
@@ -401,7 +391,7 @@
     "video": ""
   },
   {
-    "id": 41,
+    "id": 40,
     "name": "The Legend of Zelda: Majora's Mask",
     "platform": "Nintendo 64",
     "release": "2000-10-25",
@@ -411,7 +401,7 @@
     "video": ""
   },
   {
-    "id": 42,
+    "id": 41,
     "name": "The Last of Us",
     "platform": "PlayStation 3",
     "release": "2013-6-14",
@@ -421,7 +411,7 @@
     "video": ""
   },
   {
-    "id": 43,
+    "id": 42,
     "name": "Portal 2",
     "platform": "PC",
     "release": "2011-4-18",
@@ -431,7 +421,7 @@
     "video": ""
   },
   {
-    "id": 44,
+    "id": 43,
     "name": "Metal Gear Solid V: The Phantom Pain",
     "platform": "Xbox One",
     "release": "2015-9-1",
@@ -441,7 +431,7 @@
     "video": ""
   },
   {
-    "id": 45,
+    "id": 44,
     "name": "BioShock Infinite",
     "platform": "PlayStation 3",
     "release": "2013-3-26",
@@ -451,7 +441,7 @@
     "video": ""
   },
   {
-    "id": 46,
+    "id": 45,
     "name": "Final Fantasy IX",
     "platform": "PlayStation",
     "release": "2000-11-13",
@@ -461,7 +451,7 @@
     "video": ""
   },
   {
-    "id": 47,
+    "id": 46,
     "name": "Call of Duty: Modern Warfare 2",
     "platform": "PlayStation 3",
     "release": "2009-11-10",
@@ -471,7 +461,7 @@
     "video": "/video/cod2.mp4"
   },
   {
-    "id": 48,
+    "id": 47,
     "name": "God of War",
     "platform": "PlayStation 4",
     "release": "2018-4-20",
@@ -481,7 +471,7 @@
     "video": ""
   },
   {
-    "id": 49,
+    "id": 48,
     "name": "Tony Hawk's Pro Skater 4",
     "platform": "PlayStation 2",
     "release": "2002-10-23",
@@ -491,13 +481,23 @@
     "video": ""
   },
   {
-    "id": 50,
+    "id": 49,
     "name": "Devil May Cry",
     "platform": "PlayStation 2",
     "release": "2001-10-16",
     "score": "94",
     "sales": "2,160,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5j4b.png",
+    "video": ""
+  },
+  {
+    "id": 50,
+    "name": "Call of Duty: Modern Warfare",
+    "platform": "PlayStation 3",
+    "release": "2007-11-5",
+    "score": "94",
+    "sales": "9,410,000",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1wko.png",
     "video": ""
   }
 ]
