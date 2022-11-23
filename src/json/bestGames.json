@@ -68,7 +68,7 @@
     "score": "97",
     "sales": "46,000,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1q1f.png",
-    "video": ""
+    "video": "/video/red-dead2.mp4"
   },
   {
     "id": 8,
@@ -88,7 +88,7 @@
     "score": "97",
     "sales": "",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ve1.png",
-    "video": ""
+    "video": "/video/disco.mp4"
   },
   {
     "id": 10,
@@ -98,7 +98,7 @@
     "score": "97",
     "sales": "29,490,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3p2d.png",
-    "video": ""
+    "video": "/video/zelda-breath.mp4"
   },
   {
     "id": 11,
@@ -118,7 +118,7 @@
     "score": "97",
     "sales": "3,200,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co25jr.png",
-    "video": ""
+    "video": "/video/perfectdark.mp4"
   },
   {
     "id": 13,
@@ -128,7 +128,7 @@
     "score": "97",
     "sales": "2,840,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3w4w.png",
-    "video": ""
+    "video": "/video/metroidprime.mp4"
   },
   {
     "id": 14,
@@ -148,7 +148,7 @@
     "score": "97",
     "sales": "24,400,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1mxf.png",
-    "video": ""
+    "video": "/video/mario-odyssey.mp4"
   },
   {
     "id": 16,
@@ -178,7 +178,7 @@
     "score": "96",
     "sales": "4,000,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2mli.png",
-    "video": ""
+    "video": "/video/bioshock.mp4"
   },
   {
     "id": 19,
@@ -198,7 +198,7 @@
     "score": "96",
     "sales": "6,000,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tnb.png",
-    "video": ""
+    "video": "/video/uncharted2.mp4"
   },
   {
     "id": 21,
@@ -218,7 +218,7 @@
     "score": "96",
     "sales": "12,500,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1voh.png",
-    "video": ""
+    "video": "/video/batman-city.mp4"
   },
   {
     "id": 23,
@@ -228,7 +228,7 @@
     "score": "96",
     "sales": "8,360,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3tsh.png",
-    "video": ""
+    "video": "/video/tekken3.mp4"
   },
   {
     "id": 24,
@@ -238,7 +238,7 @@
     "score": "96",
     "sales": "17,500,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4jni.png",
-    "video": ""
+    "video": "/video/elden-ring.mp4"
   },
   {
     "id": 25,
@@ -248,7 +248,7 @@
     "score": "96",
     "sales": "3,100,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20ac.png",
-    "video": ""
+    "video": "/video/mass-effect2.mp4"
   },
   {
     "id": 26,
@@ -258,7 +258,7 @@
     "score": "96",
     "sales": "7,260,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3mtv.png",
-    "video": ""
+    "video": "/video/zelda-twilight.mp4"
   },
   {
     "id": 27,
@@ -268,17 +268,17 @@
     "score": "96",
     "sales": "30,000,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tnw.png",
-    "video": ""
+    "video": "/video/skyrim.mp4"
   },
   {
     "id": 28,
     "name": "Half-Life",
     "platform": "PC",
-    "release": "2005-10-25",
+    "release": "1998-11-19",
     "score": "96",
     "sales": "9,300,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tnt.png",
-    "video": ""
+    "video": "/video/hl.mp4"
   },
   {
     "id": 29,
@@ -288,7 +288,7 @@
     "score": "96",
     "sales": "4,430,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3ohz.png",
-    "video": ""
+    "video": "/video/zelda-windwaker.mp4"
   },
   {
     "id": 30,
@@ -298,7 +298,7 @@
     "score": "96",
     "sales": "10,850,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1pd3.png",
-    "video": ""
+    "video": "/video/gran-turismo.mp4"
   },
   {
     "id": 31,
@@ -308,7 +308,7 @@
     "score": "96",
     "sales": "7,000,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5e1c.png",
-    "video": ""
+    "video": "/video/metal-gear-solid2.mp4"
   },
   {
     "id": 32,
@@ -318,7 +318,7 @@
     "score": "95",
     "sales": "2,000,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1y4w.png",
-    "video": ""
+    "video": "/video/baldurs-gate2.mp4"
   },
   {
     "id": 33,
@@ -328,7 +328,7 @@
     "score": "95",
     "sales": "27,500,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lb9.png",
-    "video": ""
+    "video": "/video/gta-andreas.mp4"
   },
   {
     "id": 34,
@@ -338,7 +338,7 @@
     "score": "95",
     "sales": "5,000,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1nic.png",
-    "video": ""
+    "video": "/video/persona-5-royal.mp4"
   },
   {
     "id": 35,
@@ -348,7 +348,7 @@
     "score": "95",
     "sales": "17,500,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lbb.png",
-    "video": ""
+    "video": "/video/gta-vice.mp4"
   },
   {
     "id": 36,
@@ -358,7 +358,7 @@
     "score": "95",
     "sales": "4,500,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4p0f.png",
-    "video": ""
+    "video": "/video/littlebigplanet.mp4"
   },
   {
     "id": 37,
@@ -368,7 +368,7 @@
     "score": "95",
     "sales": "23,000,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lcv.png",
-    "video": ""
+    "video": "/video/red-dead1.mp4"
   },
   {
     "id": 38,
@@ -378,7 +378,7 @@
     "score": "95",
     "sales": "14,890,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20ae.png",
-    "video": ""
+    "video": "/video/gran-turismo3.mp4"
   },
   {
     "id": 39,
@@ -388,7 +388,7 @@
     "score": "95",
     "sales": "8,000,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1x77.png",
-    "video": ""
+    "video": "/video/halo2.mp4"
   },
   {
     "id": 40,
@@ -398,7 +398,7 @@
     "score": "95",
     "sales": "3,360,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3pah.png",
-    "video": ""
+    "video": "/video/zelda-mask.mp4"
   },
   {
     "id": 41,
@@ -408,7 +408,7 @@
     "score": "95",
     "sales": "8,150,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r7f.png",
-    "video": ""
+    "video": "/video/lastofus.mp4"
   },
   {
     "id": 42,
@@ -418,7 +418,7 @@
     "score": "95",
     "sales": "13,060,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rs4.png",
-    "video": ""
+    "video": "/video/portal2.mp4"
   },
   {
     "id": 43,
@@ -428,7 +428,7 @@
     "score": "95",
     "sales": "6,000,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1v85.png",
-    "video": ""
+    "video": "/video/metal-gear-solid5.mp4"
   },
   {
     "id": 44,
@@ -438,7 +438,7 @@
     "score": "94",
     "sales": "11,000,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2n12.png",
-    "video": ""
+    "video": "/video/bioshock-infinite.mp4"
   },
   {
     "id": 45,
@@ -448,7 +448,7 @@
     "score": "94",
     "sales": "5,830,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2unc.png",
-    "video": ""
+    "video": "/video/final-fantasy9.mp4"
   },
   {
     "id": 46,
@@ -468,7 +468,7 @@
     "score": "94",
     "sales": "23,000,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tmu.png",
-    "video": ""
+    "video": "/video/godofwar.mp4"
   },
   {
     "id": 48,
@@ -478,7 +478,7 @@
     "score": "94",
     "sales": "3,670,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co48wx.png",
-    "video": ""
+    "video": "/video/thps4.mp4"
   },
   {
     "id": 49,
@@ -488,7 +488,7 @@
     "score": "94",
     "sales": "2,160,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5j4b.png",
-    "video": ""
+    "video": "/video/devil-cry.mp4"
   },
   {
     "id": 50,
@@ -498,6 +498,6 @@
     "score": "94",
     "sales": "9,410,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1wko.png",
-    "video": ""
+    "video": "/video/cod4.mp4"
   }
 ]

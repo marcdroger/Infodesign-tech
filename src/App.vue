@@ -12,7 +12,7 @@
     videos.forEach(video => {
       observer.observe(video);
       //prevents users having tinnitus
-      video.volume = 0.3;
+      video.volume = 0.5;
     })
   })
 
@@ -33,7 +33,7 @@
         <li v-for="game in games" :key="game.id">
           <!-- TODO: add overlay -->
           <p class="games__score">{{ game.score }}</p>
-          <video loop preload="metadata">
+          <video loop preload="none">
             <source :src="game.video" type="video/mp4" />
             This browser does not support video :(
           </video>
@@ -67,7 +67,7 @@
     })
   },
   {
-    rootMargin: "-550px",
+    rootMargin: "-350px",
   }
   );
 
