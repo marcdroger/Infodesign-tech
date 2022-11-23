@@ -21,32 +21,6 @@
     }
   }
 
-  img {
-    border-radius: 8px;
-    cursor: pointer;
-    transition: transform 0.08s ease;
-
-    &:hover {
-      transform: scale(1.1)
-    }
-  }
-
-  h2 {
-    margin-top: $space-md;
-    width: 90%;
-  }
-
-  &__score {
-    font-family: 'Satoshi-Bold';
-    position: absolute;
-    top: 0;
-    right: 0;
-    background-color: $green;
-    padding: $space-md;
-    border-bottom-left-radius: 8px;
-    font-size: $text-lg;
-  }
-
   video {
     background-color: $black;
     width: 100%;
@@ -56,5 +30,40 @@
     position: absolute;
     top: 0;
     left: 0;
+    transition: opacity 0.5s ease-in-out;
+    opacity: 0;
+
+    &.show {
+      opacity: 1;
+    }
+  }
+
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+
+    div {
+      margin-left: $space-xl;
+      height: 352px;
+    }
+  }
+
+  img {
+    border-radius: 8px;
+    cursor: pointer;
+    transition: transform 0.08s ease;
+    height: 352px;
+    width: 264px;
+
+    &:hover {
+      transform: scale(1.1)
+    }
+  }
+
+  h2 {
+    font-size: $text-4xl;
+    width: 75%;
   }
 }

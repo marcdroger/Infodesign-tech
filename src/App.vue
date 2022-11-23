@@ -32,17 +32,18 @@
       <ul class="games">
         <li v-for="game in games" :key="game.id">
           <!-- TODO: add overlay -->
-          <p class="games__score">{{ game.score }}</p>
           <video loop preload="none">
             <source :src="game.video" type="video/mp4" />
             This browser does not support video :(
           </video>
           <div class="container">
-            <img :src="game.boxart" :alt=game.name @mouseenter="play" @mouseleave="stop" />
-            <h2>{{ game.name }}</h2>
-            <p>{{ game.platform }}</p>
-            <p>{{ game.release }}</p>
-            <p>{{ game.sales }}</p>
+            <img :src="game.boxart" :alt=game.name />
+            <div>
+              <h2>{{ game.name }}</h2>
+              <p>Platform {{ game.platform }}</p>
+              <p>Release {{ game.release }}</p>
+              <p>Sales {{ game.sales }}</p>
+            </div>
           </div>
         </li>
       </ul>
@@ -61,8 +62,10 @@
       //if video is in viewport play video, otherwise pause video
       if(entry.isIntersecting) {
         entry.target.play();
+        entry.target.classList.add('show');
       } else {
         entry.target.pause();
+        entry.target.classList.remove('show');
       }
     })
   },
