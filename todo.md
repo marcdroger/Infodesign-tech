@@ -5,9 +5,9 @@
 + Add the sims 1 & rollercoaster tycoon, Super mario 64 to project & left 4 dead 2?
 - Remove Persona 5 Royal, god of war & thps4? & metal gear solid V?
 
-+ compress videos after all videos final
++ add description header
++ Compress videos after all videos final
 + Add scroll effect
-+ Add transition elements on enter scroll
 + add multiple consoles/platforms in json?
 + add images of consoles?
 + Add final end section after 50 games
