@@ -20,16 +20,19 @@
 
 <template>
   <div>
-    <!-- TODO: add cookie -->
     <section class="overlay" ref="overlay">
       <h1>This storytelling project is best experienced:</h1>
       <ul>
-        <li>On a mid/large screen.</li>
+        <li>On a mid/large screen. (laptop/computer)</li>
         <li>In a modern browser such as Chrome/Firefox.</li>
-        <li>While wearing headphones/sound on.</li>
+        <li>While wearing headphones or sound on.</li>
+        <li>In fullscreen mode (press F11 on keyboard)</li>
       </ul>
       <p>All set?</p>
-      <button @click="hideOverlay">Let's enter History</button>
+      <audio ref="fade">
+        <source src="/audio/fade.mp3" type="audio/mpeg">
+      </audio>
+      <button @click="hideOverlay">I'm ready</button>
     </section>
     <noscript>
       please enable your javascript
@@ -69,13 +72,14 @@
 </template>
 
 <script>
+  //import json file with games data
   import json from './json/bestGames.json';
 
   //create the observer api for checking if video is in viewport user
   const observer = new IntersectionObserver(entries => {
     //loop every video
     entries.forEach(entry => {
-      //if video is in viewport play video, otherwise pause video
+      //if video is in viewport play background video, otherwise pause video
       if(entry.isIntersecting) {
         entry.target.play();
         entry.target.classList.add('show');
@@ -94,7 +98,15 @@
     methods: {
       //function for hiding the overlay on button click
       hideOverlay() {
+        //add hide class to overlay
         this.$refs.overlay.classList.add('overlay--hide');
+
+        //get audio file
+        let audio = this.$refs.fade;
+
+        //set volume and play audio
+        audio.volume = 0.4;
+        audio.play();
       }
     },
 
