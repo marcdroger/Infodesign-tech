@@ -2,8 +2,10 @@
 
 ## Project
 
-+ add description header
 + Compress videos after all videos final
+
++ add description header
++ fix apple fullscreen browser
 + Add scroll effect
 + add multiple consoles/platforms in json?
 + add images of consoles?
