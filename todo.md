@@ -2,9 +2,6 @@
 
 ## Project
 
-+ Add the sims 1 & rollercoaster tycoon, Super mario 64 to project & left 4 dead 2?
-- Remove Persona 5 Royal, god of war & thps4? & metal gear solid V?
-
 + add description header
 + Compress videos after all videos final
 + Add scroll effect
@@ -16,18 +13,18 @@
 
 - Add in al videos start & end fade audio?
 
+- gta 4 increase audio a bit?
+- gta 3 increase audio a bit?
+- Resident evil 4 theme + increase audio
 - Mass Effect 2 better video?
+- Little big planet increase sound a bit?
 - Uncharted video add theme song?
 - Portal 2 add theme song?
-- disco elysium increase audio bit 2-3db?
 - metroid prime theme song?
 - Mario odyssy increase audio a bit?
-- Resident evil 4 theme + increase audio
 - Elden ring theme?
 - Mass effect 2 theme?
 - Gta 5 theme?
-- Persona 5 royal video without save section
-- Metal gear solid v theme?
 - Bioshock infinite theme?
 
 ## Assignment

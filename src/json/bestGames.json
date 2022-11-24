@@ -142,13 +142,13 @@
   },
   {
     "id": 15,
-    "name": "Super Mario Odyssey",
-    "platform": "Switch",
-    "release": "27 October 2017",
-    "sales": "24,400,000",
-    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1mxf.png",
-    "video": "/video/mario-odyssey.mp4",
-    "description": "Mario’s games have been around for almost as long as game consoles have been a thing, but thankfully, he’s always evolving. We rarely get the same Mario twice. Super Mario Odyssey delivers on that ongoing promise of originality and innovation: It distills the venerable series’ joyful, irreverent world and characters and best-in-class platforming action, and introduces a steady stream of new and unexpected mechanics. It’s all spun together into a generational masterpiece."
+    "name": "Super Mario 64",
+    "platform": "Nintendo 64",
+    "release": "23 June 1996",
+    "sales": "11,910,000",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co21mm.png",
+    "video": "/video/supermario64.mp4",
+    "description": "Mario games are synonymous with fun and innovation, and perhaps Mario 64 is the best example of the latter. It gathered the core elements of Mario’s best 2D, side-scrolling adventures and worked out how to translate them into a groundbreaking 3D world. It was still recognisably Mario – he collected mushrooms and ran and jumped his way to success, but he was forever changed. He could now long jump, triple jump, and backflip. While the underlying challenge remained the same and the locations were reassuringly familiar, the shift in perspective changed everything."
   },
   {
     "id": 16,
@@ -308,7 +308,7 @@
     "sales": "7,000,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5e1c.png",
     "video": "/video/metal-gear-solid2.mp4",
-    "description": "Since the incident on Shadow Moses Island, Metal Gear's top-secret technology has been leaked into the black market through the machinations of Revolver Ocelot. As a result, countless variations of Metal Gears have sprung up in every corner of the globe, making the weapon an increasingly common component of the armed forces of nuclear powers. In the midst of all of this, Solid Snake, now a member of the anti-Metal Gear group 'Philanthropy,' has learned that a new prototype Metal Gear has been developed by the U.S. Marines and is being transported in secret to an unknown destination. To learn more about this new machine, Snake must infiltrate the transport, disguised as a tanker, as it makes its way down the Hudson River. Just as Snake is about to begin his mission, however, the ship is seized by a mysterious and well-armed group bent on stealing the new Metal Gear for their own, nefarious purposes"
+    "description": "Since the incident on Shadow Moses Island, Metal Gear's top-secret technology has been leaked into the black market through the machinations of Revolver Ocelot. As a result, countless variations of Metal Gears have sprung up in every corner of the globe, making the weapon an increasingly common component of the armed forces of nuclear powers."
   },
   {
     "id": 32,
@@ -328,17 +328,17 @@
     "sales": "27,500,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lb9.png",
     "video": "/video/gta-andreas.mp4",
-    "description": "Perhaps the most remarkable thing about Grand Theft Auto: San Andreas is just how much it dwarfs Grand Theft Auto III in every way. Forget one city. Have three, with vast swathes of forests, countryside, and desert in between. Want more vehicles? Have over 250 of them, including jump jets, combine harvesters, lawnmowers, bicycles, semi-trailers, forklifts, and so, so many more. Music? No problem. How does 11 radio stations and over 150 tracks sound? Not enough? How about a functioning casino? How about a jetpack? How about same-screen free-roaming co-op? How about fast food that actually makes you fat? And how about we put Samuel L. Jackson in it? Grand Theft Auto: San Andreas was the all-time best-selling game on PlayStation 2 – itself the best-selling console of all-time – and it’s just not at all hard to see why."
+    "description": "Perhaps the most remarkable thing about Grand Theft Auto: San Andreas is just how much it dwarfs Grand Theft Auto III in every way. Forget one city. Have three, with vast swathes of forests, countryside, and desert in between. Want more vehicles? Have over 250 of them. Music? No problem. How does 11 radio stations and over 150 tracks sound? Not enough? How about a functioning casino? How about a jetpack? How about same-screen free-roaming co-op? Grand Theft Auto: San Andreas was the all-time best-selling game on PlayStation 2 and it’s just not at all hard to see why."
   },
   {
     "id": 34,
-    "name": "Persona 5 Royal",
+    "name": "The Sims",
     "platform": "PC",
-    "release": "21 October 2022",
-    "sales": "5,000,000",
-    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1nic.png",
-    "video": "/video/persona-5-royal.mp4",
-    "description": "Persona 5 Royal is the absolute best Persona has ever been. From its character designs to its jazzy soundtrack to the menus that house them, it overflows with style and flair. But this game goes more than skin deep with an incredibly compelling story and turn-based combat that rewards tactical thinking both in and out of fights. While Persona 5 already deserved its spot on this list, its 2019 Royal edition managed to take an incredible game and make it even better with new story additions and innumerable smart improvements to nearly every system, further cementing it as an all-time great."
+    "release": "4 February 2000",
+    "sales": "16,000,000",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3hcl.png",
+    "video": "/video/sims1.mp4",
+    "description": "The Sims is a life-building simulation with emphasis on intimate details of individual characters rather than expansion of an entire society or civilization. You are in control of nearly every aspect of the lives of the individuals who make up your chosen population in the neighborhood. Characters are developed from the ground up and you infuse and mold them with personalities, looks, desires, moods, urges, living arrangements, career and personal choices, life styles, and reactions."
   },
   {
     "id": 35,
@@ -348,7 +348,7 @@
     "sales": "17,500,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lbb.png",
     "video": "/video/gta-vice.mp4",
-    "description": "As the second 3D game in the now mega-series Grand Theft Auto, Vice City had enormous shoes to fill coming off the groundbreaking statement that was Grand Theft Auto III. And did it ever deliver. Set during the 1980s in Rockstar’s facsimile of Miami, the violence, sex, and excess of this defining decade was slathered across a fully playable world of wannabe gangsters, sports cars, mountains of drugs, and briefcases full of bills. Mining veins of content from Scarface, Miami Vice, and other seminal pop culture pillars of the era, Vice City had it all: a cast of larger-than-life characters and a rags-to-riches protagonist who builds his empire on the blood, sweat, and more blood of the sun-soaked, drug-addled, sex-crazed slice of beach city."
+    "description": "As the second 3D game in the now mega-series Grand Theft Auto, Vice City had enormous shoes to fill coming off the groundbreaking statement that was Grand Theft Auto III. And did it ever deliver. Set during the 1980s in Rockstar’s facsimile of Miami, the violence, sex, and excess of this defining decade was slathered across a fully playable world of wannabe gangsters, sports cars, mountains of drugs, and briefcases full of bills. Mining veins of content from Scarface, Miami Vice, and other seminal pop culture pillars of the era, Vice City had it all."
   },
   {
     "id": 36,
@@ -388,7 +388,7 @@
     "sales": "8,000,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1x77.png",
     "video": "/video/halo2.mp4",
-    "description": "Few games had more of a buildup prior to their release than Halo 2, and even fewer managed to live up to them in the way that Halo 2 did. Master Chief taking the fight with the Covenant to Earth was epic, action-packed, and visually stunning on the original Xbox. Sure, the campaign didn't so much end as much as stopped, but the shocking reveal of the playable Arbiter and his story that mirrored the Chief's was a twist no one saw coming. Furthermore, and perhaps even more importantly, Halo 2 was the killer app for Xbox Live. It brought the party system and matchmaking hopper concept to consoles, instantly making every other online console game look archaic in its infrastructure by comparison. Of course, it helped that the multiplayer gameplay was, well, legendary."
+    "description": "Few games had more of a buildup prior to their release than Halo 2, and even fewer managed to live up to them in the way that Halo 2 did. Master Chief taking the fight with the Covenant to Earth was epic, action-packed, and visually stunning on the original Xbox. Sure, the campaign didn't so much end as much as stopped, but the shocking reveal of the playable Arbiter and his story that mirrored the Chief's was a twist no one saw coming. Furthermore, and perhaps even more importantly, Halo 2 was the killer app for Xbox Live. It brought the party system and matchmaking hopper concept to consoles, instantly making every other online console game look archaic in its infrastructure by comparison."
   },
   {
     "id": 40,
@@ -422,13 +422,13 @@
   },
   {
     "id": 43,
-    "name": "Metal Gear Solid V: The Phantom Pain",
-    "platform": "Xbox One",
-    "release": "1 September 2015",
-    "sales": "6,000,000",
-    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1v85.png",
-    "video": "/video/metal-gear-solid5.mp4",
-    "description": "Following the prologue Metal Gear Solid V: Ground Zeroes, Metal Gear Solid V: The Phantom Pain concludes the Metal Gear Solid V experience by following the story of the protagonist of the series, Big Boss (a.k.a. Snake). The Metal Gear Solid V experience is Creator and Director Hideo Kojima's first time incorporating open world gameplay to the groundbreaking Metal Gear franchise."
+    "name": "Super Mario Odyssey",
+    "platform": "Switch",
+    "release": "27 October 2017",
+    "sales": "24,400,000",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1mxf.png",
+    "video": "/video/mario-odyssey.mp4",
+    "description": "Mario’s games have been around for almost as long as game consoles have been a thing, but thankfully, he’s always evolving. We rarely get the same Mario twice. Super Mario Odyssey delivers on that ongoing promise of originality and innovation: It distills the venerable series’ joyful, irreverent world and characters and best-in-class platforming action, and introduces a steady stream of new and unexpected mechanics. It’s all spun together into a generational masterpiece."
   },
   {
     "id": 44,
@@ -438,7 +438,7 @@
     "sales": "11,000,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2n12.png",
     "video": "/video/bioshock-infinite.mp4",
-    "description": "Once conceived as a floating symbol of American ideals at a time when the United States was emerging as a world power, Columbia has been dispatched to distant shores with great fanfare by a captivated public. What begins as a brand new endeavor of hope turns drastically wrong as the city soon disappears into the clouds to whereabouts unknown. The player assumes the role of former Pinkerton agent Booker DeWitt, sent to the lost city to rescue Elizabeth, a young woman imprisoned there since childhood. He develops a relationship with Elizabeth, augmenting his abilities with hers so the pair may escape from a city that is literally falling from the sky. DeWitt must learn to fight foes in high-speed Sky-Line battles, engage in combat both indoors and amongst the clouds, and engage the power of dozens of new weapons and abilities."
+    "description": "Once conceived as a floating symbol of American ideals at a time when the United States was emerging as a world power, Columbia has been dispatched to distant shores with great fanfare by a captivated public. What begins as a brand new endeavor of hope turns drastically wrong as the city soon disappears into the clouds to whereabouts unknown. The player assumes the role of former Pinkerton agent Booker DeWitt, sent to the lost city to rescue Elizabeth, a young woman imprisoned there since childhood. He develops a relationship with Elizabeth, augmenting his abilities with hers so the pair may escape from a city that is literally falling from the sky."
   },
   {
     "id": 45,
@@ -458,27 +458,27 @@
     "sales": "22,700,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3cwt.png",
     "video": "/video/cod2.mp4",
-    "description": "Over the years the Call of Duty series has set the bar for immersive, action-packed, cinematic FPS gaming, and no matter what camp you're from there's no denying the franchise's influence on the industry. When Infinity Ward moved from the classic World War II setting and blazed new ground with Modern Warfare we saw the first obvious split within the world of Call of Duty. The series dropped its historic focus, created a new cast of characters, and began treading on new ground by taking the first-person shooter genre to new locales, and pushing the boundaries of what military games are willing to show. With Modern Warfare 2, the sheer amount of hype has been practically inescapable, with preorders alone setting it up as one of the biggest selling games of all time, the addition of even more multiplayer modes and features, and the game's new Special Operations mode has set Infinity Ward's lastest up as the game to beat this year."
+    "description": "Over the years the Call of Duty series has set the bar for immersive, action-packed, cinematic FPS gaming, and no matter what camp you're from there's no denying the franchise's influence on the industry. With Modern Warfare 2, the sheer amount of hype has been practically inescapable, with preorders alone setting it up as one of the biggest selling games of all time, the addition of even more multiplayer modes and features, and the game's new Special Operations mode has set Infinity Ward's lastest up as the game to beat this year."
   },
   {
     "id": 47,
-    "name": "God of War",
-    "platform": "PlayStation 4",
-    "release": "20 April 2018",
-    "sales": "23,000,000",
-    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tmu.png",
-    "video": "/video/godofwar.mp4",
-    "description": "God of War didn't just pull off the impressive feat of reinvigorating and reinventing a franchise that had seemingly run cold, but it also smartly subverted what came before to create an adventure that both played to its past and stood on its own as one of the finest games of its generation. Nearly every facet of Sony Santa Monica's Norse epic is working in concert with one another to craft a thrilling, memorable, and engrossing adventure. From its haunting score, to the beautifully written and acted story of Kratos and Atreus, to the incredible feel of the Leviathan Axe, God of War's impressive craftsmanship shines through at every step, honoring the past while forging its own path."
+    "name": "Rollercoaster Tycoon",
+    "platform": "PC",
+    "release": "31 March 1999",
+    "sales": "4,000,000",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2r6q.png",
+    "video": "/video/rollercoaster-tycoon.mp4",
+    "description": "The premise of the game is to complete a series of preset scenarios by successfully building and maintaining amusement parks through business ownership as a theme park entrepreneur. The key to any park is building a large amount and diverse range of rides for the visitors. Players can choose from dozens of roller coaster types and can also build log flumes, carousels, bumper cars, haunted houses, go karts, ferris wheels, and swinging ships, among other rides."
   },
   {
     "id": 48,
-    "name": "Tony Hawk's Pro Skater 4",
-    "platform": "PlayStation 2",
-    "release": "23 October 2002",
-    "sales": "3,670,000",
-    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co48wx.png",
-    "video": "/video/thps4.mp4",
-    "description": "Build your skills, earn respect, and show that you've got what it takes to Go Pro. 190 progressively harder goals. No time clock, no constraints. Pro-specific challenges. Evolving levels. Interact with other skaters. Multi-player modes. Customize your game...Your career is what you make of it."
+    "name": "Left 4 Dead 2",
+    "platform": "PC",
+    "release": "17 November 2009",
+    "sales": "7,600,000",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1y2f.png",
+    "video": "/video/left4dead2.mp4",
+    "description": "Left 4 Dead 2 came out exactly a year after the original, which upset a lot of people who (incorrectly) assumed the sequel would be a glorified expansion pack to the first. But Left 4 Dead 2 does exactly what a sequel needs to do: be better in every way. L4D2 - developed in-house at Valve - has more creative levels in its campaign, more special infected to kill (or play as, if playing in Versus Mode), a bigger variety of weapons, and protagonists with some actual personality."
   },
   {
     "id": 49,

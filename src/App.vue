@@ -96,7 +96,7 @@
     })
   },
   {
-    rootMargin: "-350px",
+    rootMargin: "-425px",
   }
   );
 
