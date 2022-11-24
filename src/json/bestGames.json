@@ -38,7 +38,7 @@
     "sales": "1,000,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1x6g.png",
     "video": "/video/soulcalibur.mp4",
-    "description": "Soulcalibur is that rare sequel that supplants the original. The successor to 1995’s Soul Edge, Soulcalibur perfected the formula for 3D weapon-based fighting games. A smash-hit in arcades and the first “must-have” game for the Dreamcast system, Soulcalibur is remembered for its balance, imaginative characters, and smooth combat. In the flood of new fighting game franchises that were introduced in the mid-90s, Soulcalibur separated itself from the pack because the core gameplay mechanics were so strong. Any fighter – whether a ninja, pirate, knight, or warrior monk – could challenge any other and the outcome would depend on the skill of the player. There is a reason why this fantastical tale of swords and souls has spawned so many sequels."
+    "description": "Soulcalibur is that rare sequel that supplants the original. The successor to 1995’s Soul Edge, Soulcalibur perfected the formula for 3D weapon-based fighting games. A smash-hit in arcades and the first “must-have” game for the Dreamcast system, Soulcalibur is remembered for its balance, imaginative characters, and smooth combat. In the flood of new fighting game franchises that were introduced in the mid-90s, Soulcalibur separated itself from the pack because the core gameplay mechanics were so strong. Any fighter – whether a ninja, pirate, knight, or warrior monk – could challenge any other and the outcome would depend on the skill of the player."
   },
   {
     "id": 5,
@@ -48,7 +48,7 @@
     "sales": "12,800,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co21ro.png",
     "video": "/video/mario-galaxy.mp4",
-    "description": "The ultimate Nintendo hero is taking the ultimate step ... out into space. Join Mario as he ushers in a new era of video games, defying gravity across all the planets in the galaxy. When some creature escapes into space with Princess Peach, Mario gives chase, exploring bizarre planets all across the galaxy. Mario, Peach and enemies new and old are here. Players run, jump and battle enemies as they explore all the planets in the galaxy. Since this game makes full use of all the features of the Wii Remote, players have to do all kinds of things to succeed: pressing buttons, swinging the Wii Remote and the Nunchuk, and even pointing at and dragging things with the pointer. Since he's in space, Mario can perform mind-bending jumps unlike anything he's done before. He'll also have a wealth of new moves that are all based around tilting, pointing and shaking the Wii Remote. Shake, tilt and point! Mario takes advantage of all the unique aspects of the Wii Remote and Nunchuk controller, unleashing new moves as players shake the controller and even point at and drag items with the pointer."
+    "description": "Join Mario as he ushers in a new era of video games, defying gravity across all the planets in the galaxy. When some creature escapes into space with Princess Peach, Mario gives chase, exploring bizarre planets all across the galaxy. Mario, Peach and enemies new and old are here. Players run, jump and battle enemies as they explore all the planets in the galaxy."
   },
   {
     "id": 6,
@@ -82,13 +82,13 @@
   },
   {
     "id": 9,
-    "name": "Disco Elysium: The Final Cut",
+    "name": "Disco Elysium",
     "platform": "PC",
     "release": "30 March 2021",
     "sales": "2,360,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ve1.png",
     "video": "/video/disco.mp4",
-    "description": "Simply put, there’s nothing else quite like Disco Elysium. The premise is straightforward: A body has been discovered, hanged from a looming tree in the backyard of a hostel, and it’s up to you to work out how it got there over the course of the 30-hour story. It’s a unique blend of noir detective fiction, traditional pen-and-paper RPGs, and a large helping of existentialist theory. Its twisting plot, a cast of memorable characters, and sheer depth of choice combine to create an experience that begs to be savored in a world riddled with crime, poverty, and violence. And, somehow, it manages to make all of this fun and, surprisingly often, funny. It quickly becomes clear that this isn’t simply a whodunnit, but a journey that will challenge you to solve crises on both profoundly personal and societal levels."
+    "description": "Simply put, there’s nothing else quite like Disco Elysium. The premise is straightforward: A body has been discovered, hanged from a looming tree in the backyard of a hostel, and it’s up to you to work out how it got there over the course of the 30-hour story. It’s a unique blend of noir detective fiction, traditional pen-and-paper RPGs, and a large helping of existentialist theory. Its twisting plot, a cast of memorable characters, and sheer depth of choice combine to create an experience that begs to be savored in a world riddled with crime, poverty, and violence. And, somehow, it manages to make all of this fun and, surprisingly often, funny."
   },
   {
     "id": 10,
@@ -178,7 +178,7 @@
     "sales": "4,000,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2mli.png",
     "video": "/video/bioshock.mp4",
-    "description": "BioShock will likely always be remembered for its game-changing “Would You Kindly?” twist, but the first adventure in Rapture is so much more than a dressed-up dupe. From first encountering a splicer caring for a gun the way a mother cares for her baby to the still-enrapturing Andrew Ryan twist toward the game’s end, BioShock delivers one enrapturing setpiece after another. That’s largely in part thanks to one of the most memorable locations in gaming history. So much story is embedded in the dilapidated hallways and shuttered rooms of Rapture, a decaying underwater labyrinth that demands to be investigated. The mark of a good experience is one that you keep thinking about long after you’ve finished it. And I still haven’t stopped thinking about BioShock, its incredible location, and those awesome Plasmids."
+    "description": "BioShock will likely always be remembered for its game-changing “Would You Kindly?” twist, but the first adventure in Rapture is so much more than a dressed-up dupe. From first encountering a splicer caring for a gun the way a mother cares for her baby to the still-enrapturing Andrew Ryan twist toward the game’s end, BioShock delivers one enrapturing setpiece after another. That’s largely in part thanks to one of the most memorable locations in gaming history. So much story is embedded in the dilapidated hallways and shuttered rooms of Rapture, a decaying underwater labyrinth that demands to be investigated."
   },
   {
     "id": 19,
@@ -198,7 +198,7 @@
     "sales": "6,000,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tnb.png",
     "video": "/video/uncharted2.mp4",
-    "description": "Many games attempt to emulate cinema, dealing in the same tropes and stock characters. Initially, it looks like Uncharted does the same thing – it focuses on a treasure hunter who frequently finds himself in danger across exotic locations. But when you play Uncharted, especially the second installment, Among Thieves, you realize it surpasses much of Hollywood with ease. So often action exists for action sake – to look cool – but Uncharted 2: Among Thieves uses it to reveal more about its central character, Nathan Drake, and his relationships with a strong cast of supporting characters. That’s not to say the action isn’t spectacular. Uncharted 2: Among Thieves set a new benchmark for cinematic action, graphical fidelity, and established Nathan Drake as one of the great video game characters of his time."
+    "description": "Many games attempt to emulate cinema, dealing in the same tropes and stock characters. Initially, it looks like Uncharted does the same thing but Uncharted 2: Among Thieves uses it to reveal more about its central character, Nathan Drake, and his relationships with a strong cast of supporting characters. That’s not to say the action isn’t spectacular. Uncharted 2: Among Thieves set a new benchmark for cinematic action, graphical fidelity, and established Nathan Drake as one of the great video game characters of his time."
   },
   {
     "id": 21,
@@ -218,7 +218,7 @@
     "sales": "12,500,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1voh.png",
     "video": "/video/batman-city.mp4",
-    "description": "After Arkham Asylum laid the groundwork for a superhero game that hit all the right beats, Batman: Arkham City took everything to the next level by letting Batman loose in the streets of Gotham. Not only did it nail the feeling of stalking and beating down thugs with an impressive array of gadgets, it raised the stakes of what a caped crusader could deal with in a single night. Arkham City’s heaping helping of infamous rogues let you experience them in their element, and found perfect ways for Batman to foil them via both brain and brawn – leading to some of the best boss fights ever conceived. Each supervillain added to the oppressive weight of trying to save the day with the odds stacked against you, and the story’s climax remains one of the most striking moments in video games."
+    "description": "After Arkham Asylum laid the groundwork for a superhero game that hit all the right beats, Batman: Arkham City took everything to the next level by letting Batman loose in the streets of Gotham. Not only did it nail the feeling of stalking and beating down thugs with an impressive array of gadgets, it raised the stakes of what a caped crusader could deal with in a single night."
   },
   {
     "id": 23,
@@ -248,7 +248,7 @@
     "sales": "3,100,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20ac.png",
     "video": "/video/mass-effect2.mp4",
-    "description": "Where Mass Effect set the stage for a futuristic Milky Way, Mass Effect 2 let you explore and experience so much more of it. As Commander Shepard, I traveled the galaxy on the best recruitment trip I could have wished for, and experienced possibly one of the most heart-wrenching stories – but whether or not the game ends in tears is entirely up to you. As you head out for a suicide mission, you’ll meet some of the best-written characters that feel original and have the power to evoke true emotions. Perhaps one of the best parts about earning the loyalty of each of the companions was discovering more about their respective species and seeing how they’re surviving in a violent galaxy. Maximum loyalty for my companions in Mass Effect 2 was not an option; for my heart’s own good, it was a requirement."
+    "description": "Where Mass Effect set the stage for a futuristic Milky Way, Mass Effect 2 let you explore and experience so much more of it. As Commander Shepard, I traveled the galaxy on the best recruitment trip I could have wished for, and experienced possibly one of the most heart-wrenching stories – but whether or not the game ends in tears is entirely up to you. As you head out for a suicide mission, you’ll meet some of the best-written characters that feel original and have the power to evoke true emotions. Perhaps one of the best parts about earning the loyalty of each of the companions was discovering more about their respective species and seeing how they’re surviving in a violent galaxy."
   },
   {
     "id": 26,
@@ -348,7 +348,7 @@
     "sales": "17,500,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lbb.png",
     "video": "/video/gta-vice.mp4",
-    "description": "As the second 3D game in the now mega-series Grand Theft Auto, Vice City had enormous shoes to fill coming off the groundbreaking statement that was Grand Theft Auto III. And did it ever deliver. Set during the 1980s in Rockstar’s facsimile of Miami, the violence, sex, and excess of this defining decade was slathered across a fully playable world of wannabe gangsters, sports cars, mountains of drugs, and briefcases full of bills. Mining veins of content from Scarface, Miami Vice, and other seminal pop culture pillars of the era, Vice City had it all: a cast of larger-than-life characters and a rags-to-riches protagonist who builds his empire on the blood, sweat, and more blood of the sun-soaked, drug-addled, sex-crazed slice of beach city. And it's that ‘80s personality that propped up Vice City any time its open-world gameplay started to falter – much of that personality coming from the incredible soundtrack that is alone worth the price of admission. Grand Theft Auto: Vice City is a sexy, sour, excellent sendup of the decade that will never die."
+    "description": "As the second 3D game in the now mega-series Grand Theft Auto, Vice City had enormous shoes to fill coming off the groundbreaking statement that was Grand Theft Auto III. And did it ever deliver. Set during the 1980s in Rockstar’s facsimile of Miami, the violence, sex, and excess of this defining decade was slathered across a fully playable world of wannabe gangsters, sports cars, mountains of drugs, and briefcases full of bills. Mining veins of content from Scarface, Miami Vice, and other seminal pop culture pillars of the era, Vice City had it all: a cast of larger-than-life characters and a rags-to-riches protagonist who builds his empire on the blood, sweat, and more blood of the sun-soaked, drug-addled, sex-crazed slice of beach city."
   },
   {
     "id": 36,
@@ -358,7 +358,7 @@
     "sales": "4,500,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4p0f.png",
     "video": "/video/littlebigplanet.mp4",
-    "description": "In 'LittleBigPlanet,' players meet on a blue and green planet scattered with individual plots - and use their character's amazing abilities to play, create and share what they build with other gamers throughout the world via the PlayStation Network. The 'LittleBigPlanet' experience starts with players learning about their character's powers to interact physically with the environment. There are places to explore, creative resources to collect and puzzles to solve - all requiring a combination of brains and collaborative teamwork. As soon as players begin their creative skills will grow and they will soon be ready to start creating and modifying their surroundings - the first step to sharing them with the whole community. Characters have the power to move anything in this glued and stitched-together 3D landscape; they have the power to design, shape and build both objects and entire locations for others to view and play. There's no complicated level editor; all of these skills can be learned by simply playing the game. Creativity is part of the gameplay experience and playing is part of the creative experience. Players can make their world as open or as secretive to explore as they like."
+    "description": "In 'LittleBigPlanet,' players meet on a blue and green planet scattered with individual plots - and use their character's amazing abilities to play, create and share what they build with other gamers throughout the world via the PlayStation Network."
   },
   {
     "id": 37,
@@ -418,7 +418,7 @@
     "sales": "13,060,000",
     "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rs4.png",
     "video": "/video/portal2.mp4",
-    "description": "Portal undoubtedly came out of nowhere and shattered the mold, but Portal 2 took that raw and incredible concept and managed to shape it into a more polished and impressive package. It cranked the dials up on just about everything that made the original so special. The mind-bending puzzles, the surprisingly dark story, and the ridiculous humor that balanced it out - each piece of that picture was refined and refreshed to build a sequel that actually surpassed the ambition of an already extremely ambitious game, making something both familiar and altogether new. It gave us a deeper look into the wonderful world of Aperture Science without completely dragging all of its mysteries out into the light. It also mixed its “thinking with portals” puzzles up even further by weaving in gel mechanics that felt entirely fresh and completely natural at the same time - while simultaneously and subtly using them to tie gameplay mechanics into the story, patiently waiting until its incredible finale to pay off those setups with one of the weirdest and most spectacular video game endings around. Couple that with a seriously good co-op campaign and even a full-on custom level builder and sharing systems added post-launch and Portal 2 has stayed the high bar by which all first-person puzzle games should be measured, even nearly a decade later."
+    "description": "Portal undoubtedly came out of nowhere and shattered the mold, but Portal 2 took that raw and incredible concept and managed to shape it into a more polished and impressive package. It cranked the dials up on just about everything that made the original so special. The mind-bending puzzles, the surprisingly dark story, and the ridiculous humor that balanced it out - each piece of that picture was refined and refreshed to build a sequel that actually surpassed the ambition of an already extremely ambitious game, making something both familiar and altogether new."
   },
   {
     "id": 43,

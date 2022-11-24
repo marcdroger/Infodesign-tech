@@ -20,7 +20,7 @@
   }
 
   h1 {
-    font-size: $text-4xl;
+    font-size: $text-5xl;
     width: 45%;
     margin: 0 auto $space-xl;
     text-align: center;
@@ -30,16 +30,21 @@
     color: $gold;
   }
 
+  li,
+  p {
+    font-size: $text-xl;
+  }
+
   li::before {
     content: '• ';
     color: $gold;
   }
 
   p {
-    margin-top: $space-lg;
+    margin-top: $space-3xl;
   }
 
   button {
-    margin-top: $space-md;
+    margin-top: $space-lg;
   }
 }

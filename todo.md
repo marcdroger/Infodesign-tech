@@ -5,6 +5,7 @@
 + Add the sims 1 & rollercoaster tycoon, Super mario 64 to project & left 4 dead 2?
 - Remove Persona 5 Royal, god of war & thps4? & metal gear solid V?
 
++ compress videos after all videos final
 + Add scroll effect
 + Add transition elements on enter scroll
 + add multiple consoles/platforms in json?
@@ -15,6 +16,7 @@
 
 - Add in al videos start & end fade audio?
 
+- Mass Effect 2 better video?
 - Uncharted video add theme song?
 - Portal 2 add theme song?
 - disco elysium increase audio bit 2-3db?
