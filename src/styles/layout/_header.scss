@@ -8,9 +8,13 @@ header {
   justify-content: center;
 
   h1 {
-    font-size: $text-4xl;
-    width: 80%;
+    font-size: $text-5xl;
+    width: 500px;
     margin: 0 auto $space-lg;
+  }
+
+  h1 span {
+    color: $gold;
   }
 
   a {

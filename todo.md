@@ -2,15 +2,14 @@
 
 ## Project
 
-+ Add the sims 1 & rollercoaster tycoon to project?
-+ Add favicon
-+ Add og-image
++ Add the sims 1 & rollercoaster tycoon, Super mario 64 to project & Need for speed undeground 2? left 4 dead 2?
+- Remove Persona 5 Royal, god of war & thps4? & metal gear solid V?
+
 + Add scroll effect
 + Add transition elements on enter scroll
-+ New title project
 + add multiple consoles/platforms in json?
-+ add images of consoles
-+ Add end section after 50 games
++ add images of consoles?
++ Add final end section after 50 games
 
 ## Video
 

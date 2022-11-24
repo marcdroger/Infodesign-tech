@@ -21,18 +21,18 @@
 <template>
   <div>
     <section class="overlay" ref="overlay">
-      <h1>This storytelling project is best experienced:</h1>
+      <h1>This storytelling project is best experienced<span>:</span></h1>
       <ul>
-        <li>On a mid/large screen. (laptop/computer)</li>
+        <li>On a mid/large screen. (laptop/computer).</li>
         <li>In a modern browser such as Chrome/Firefox.</li>
         <li>While wearing headphones or sound on.</li>
-        <li>In fullscreen mode (press F11 on keyboard)</li>
+        <li>In fullscreen mode (press F11 on keyboard).</li>
       </ul>
       <p>All set?</p>
       <audio ref="fade">
         <source src="/audio/fade.mp3" type="audio/mpeg">
       </audio>
-      <button @click="hideOverlay">I'm ready</button>
+      <button @click="hideOverlay">Dive Into History</button>
     </section>
     <noscript>
       please enable your javascript
@@ -41,7 +41,7 @@
     <main>
       <header>
         <div class="container">
-          <h1>Top {{games.length}} Games according to Metacritic.com</h1>
+          <h1>The Best Games Ever Made<span>.</span></h1>
           <p><a href="https://www.metacritic.com/browse/games/score/metascore/all/all/filtered" target="_blank">metacritic.com</a> & <a href="https://www.vgchartz.com/">vgchartz.com</a></p>
         </div>
       </header>
