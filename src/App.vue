@@ -20,12 +20,17 @@
 
 <template>
   <div>
-    <section class="overlay">
-      <h1></h1>
-      <p></p>
-      <button>Check</button>
+    <!-- TODO: add cookie -->
+    <section class="overlay" ref="overlay">
+      <h1>This storytelling project is best experienced:</h1>
+      <ul>
+        <li>On a mid/large screen.</li>
+        <li>In a modern browser such as Chrome/Firefox.</li>
+        <li>While wearing headphones/sound on.</li>
+      </ul>
+      <p>All set?</p>
+      <button @click="hideOverlay">Let's enter History</button>
     </section>
-    <!-- TODO: add styling overlay no javascript and make component -->
     <noscript>
       please enable your javascript
     </noscript>
@@ -86,6 +91,13 @@
   );
 
   export default {
+    methods: {
+      //function for hiding the overlay on button click
+      hideOverlay() {
+        this.$refs.overlay.classList.add('overlay--hide');
+      }
+    },
+
     data() {
       return {
         games: json,
