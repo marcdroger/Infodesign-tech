@@ -16,8 +16,6 @@
 
 - Add in al videos start & end fade audio?
 
-- Fix audio levels
-
 - Uncharted video add theme song?
 - Portal 2 add theme song?
 - disco elysium increase audio bit 2-3db?
