@@ -46,7 +46,7 @@
     height: 100%;
 
     div {
-      margin-left: $space-xl;
+      margin-left: $space-2xl;
       height: 352px;
     }
   }
@@ -64,6 +64,10 @@
     }
   }
 
+  p {
+    font-size: $text-xl;
+  }
+
   p span {
     color: $white-off;
   }
@@ -71,27 +75,23 @@
   h2 {
     font-size: $text-4xl;
     margin: $space-lg 0 $space-sm;
-    width: 68%;
-  }
-
-  h2 span {
-    color: $white-off;
-    font-size: $text-lg;
+    width: 65%;
   }
 
   &__info {
-    width: 60%;
+    width: 65%;
   }
 
   &__release {
     color: $white-off;
     font-family: 'Satoshi-bold';
-    font-size: $text-xl;
+    font-size: $text-2xl;
     margin-bottom: $space-xl;
   }
 
   &__description {
     color: $white-off;
+    font-size: $text-xl;
     line-height: 1.4;
     width: 90%;
   }

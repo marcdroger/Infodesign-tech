@@ -20,6 +20,7 @@
 
 <template>
   <div>
+
     <section class="overlay" ref="overlay">
       <h1>This storytelling project is best experienced<span>:</span></h1>
       <ul>
@@ -34,10 +35,12 @@
       </audio>
       <button @click="hideOverlay">Dive Into History</button>
     </section>
+
     <!-- TODO: put in seperate component -->
     <noscript>
       please enable your javascript
     </noscript>
+
     <Nav />
     <main>
       <header>
@@ -49,7 +52,7 @@
       <ul class="games">
         <li v-for="game in games" :key="game.id">
           <!-- TODO: add overlay mobile -->
-          <video loop preload="none">
+          <video loop preload="metadata">
             <source :src="game.video" type="video/mp4" />
             This browser does not support video :(
           </video>
