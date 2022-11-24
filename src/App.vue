@@ -29,11 +29,12 @@
         <li>In fullscreen mode (press F11 on keyboard).</li>
       </ul>
       <p>All set?</p>
-      <audio ref="fade">
+      <audio ref="audio__fade">
         <source src="/audio/fade.mp3" type="audio/mpeg">
       </audio>
       <button @click="hideOverlay">Dive Into History</button>
     </section>
+    <!-- TODO: put in seperate component -->
     <noscript>
       please enable your javascript
     </noscript>
@@ -41,13 +42,13 @@
     <main>
       <header>
         <div class="container">
-          <h1>The Best Games Ever Made<span>.</span></h1>
-          <p><a href="https://www.metacritic.com/browse/games/score/metascore/all/all/filtered" target="_blank">metacritic.com</a> & <a href="https://www.vgchartz.com/">vgchartz.com</a></p>
+          <h1 ref="header__title">The Best Games Ever Made<span>.</span></h1>
+          <p ref="header__paragraph">Dive into history.</p>
         </div>
       </header>
       <ul class="games">
         <li v-for="game in games" :key="game.id">
-          <!-- TODO: add overlay -->
+          <!-- TODO: add overlay mobile -->
           <video loop preload="none">
             <source :src="game.video" type="video/mp4" />
             This browser does not support video :(
@@ -100,9 +101,11 @@
       hideOverlay() {
         //add hide class to overlay
         this.$refs.overlay.classList.add('overlay--hide');
+        this.$refs.header__title.classList.add('fade-in-top');
+        this.$refs.header__paragraph.classList.add('fade-in-bottom--third');
 
         //get audio file
-        let audio = this.$refs.fade;
+        let audio = this.$refs.audio__fade;
 
         //set volume and play audio
         audio.volume = 0.4;

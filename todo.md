@@ -2,9 +2,11 @@
 
 ## Project
 
-+ Add the sims 1 & rollercoaster tycoon, Super mario 64 to project & Need for speed undeground 2? left 4 dead 2?
++ Add the sims 1 & rollercoaster tycoon, Super mario 64 to project & left 4 dead 2?
 - Remove Persona 5 Royal, god of war & thps4? & metal gear solid V?
 
++ add background effect header
++ add header transition
 + Add scroll effect
 + Add transition elements on enter scroll
 + add multiple consoles/platforms in json?

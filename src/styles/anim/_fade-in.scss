@@ -1,0 +1,56 @@
+.fade-in {
+  &-bottom {
+    &--first {
+      animation: fade-in-bottom .6s cubic-bezier(.4,0,.2,1) .4s both;
+    }
+
+    &--second {
+      animation: fade-in-bottom .6s cubic-bezier(.4,0,.2,1) .6s both;
+    }
+
+    &--third {
+      animation: fade-in-bottom .6s cubic-bezier(.4,0,.2,1) .8s both;
+    }
+  }
+
+  &-left {
+    animation: fade-in-left .6s cubic-bezier(.4,0,.2,1) .4s both;
+  }
+
+  &-top {
+    animation: fade-in-top .6s cubic-bezier(.4,0,.2,1) .6s both;
+  }
+}
+
+@keyframes fade-in-bottom {
+  0% {
+    opacity: 0;
+    transform: translateY(.75rem);
+  }
+  to {
+    opacity:1;
+    transform:translateY(0)
+  }
+}
+
+@keyframes fade-in-top {
+  0% {
+    opacity: 0;
+    transform: translateY(-.75rem);
+  }
+  to {
+    opacity:1;
+    transform:translateY(0)
+  }
+}
+
+@keyframes fade-in-left {
+  0% {
+    opacity: 0;
+    transform: translateX(-.75rem);
+  }
+  to {
+    opacity:1;
+    transform:translateX(0)
+  }
+}
