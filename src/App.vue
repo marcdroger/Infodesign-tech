@@ -22,18 +22,18 @@
   <div>
 
     <section class="overlay" ref="overlay">
-      <h1>This storytelling project is best experienced<span>:</span></h1>
-      <ul>
+      <h1 class="fade-in-top">This storytelling project is best experienced<span>:</span></h1>
+      <ul class="fade-in-top">
         <li>On a mid/large screen. (laptop/computer).</li>
         <li>In a modern browser such as Chrome/Firefox.</li>
         <li>While wearing headphones or sound on.</li>
         <li>In fullscreen mode (press F11 on keyboard).</li>
       </ul>
-      <p>All set?</p>
+      <p class="fade-in-bottom--second">All set?</p>
       <audio ref="audio__fade">
         <source src="/audio/fade.mp3" type="audio/mpeg">
       </audio>
-      <button @click="hideOverlay">Dive Into History</button>
+      <button class="fade-in-bottom--third" @click="hideOverlay">Dive Into History</button>
     </section>
 
     <!-- TODO: put in seperate component -->
