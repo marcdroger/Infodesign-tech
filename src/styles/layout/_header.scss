@@ -7,6 +7,8 @@ header {
   align-items: center;
   justify-content: center;
 
+  //background animation shamelessy copied from
+  //https://codepen.io/Jeromche/pen/KKQrGgP
   &::before {
     content: '';
     position: absolute;

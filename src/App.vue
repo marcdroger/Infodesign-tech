@@ -4,15 +4,13 @@
   import Nav from './components/layout/Nav.vue';
   import Footer from './components/layout/Footer.vue';
 
-  //get all background videos once vue has rendered
   onMounted(() => {
-    const videos = document.querySelectorAll('video');
+    //get all games once vue has rendered
+    const gamesList = document.querySelectorAll('.games__item');
 
-    //observe every video
-    videos.forEach(video => {
-      observer.observe(video);
-      //prevents users having tinnitus
-      video.volume = 0.5;
+    //observe every game item
+    gamesList.forEach(game => {
+      observer.observe(game);
     })
   })
 
@@ -20,7 +18,6 @@
 
 <template>
   <div>
-
     <section class="overlay" ref="overlay">
       <h1 class="fade-in-top">This storytelling project is best experienced<span>:</span></h1>
       <ul class="fade-in-top">
@@ -36,10 +33,7 @@
       <button class="fade-in-bottom--third" @click="hideOverlay">Dive Into History</button>
     </section>
 
-    <!-- TODO: put in seperate component -->
-    <noscript>
-      please enable your javascript
-    </noscript>
+    <!-- TODO: prevent scroll on first overlay-->
 
     <Nav />
     <main>
@@ -50,20 +44,20 @@
         </div>
       </header>
       <ul class="games">
-        <li v-for="game in games" :key="game.id">
-          <!-- TODO: add overlay mobile -->
-          <video loop preload="metadata">
+        <li v-for="game in games" :key="game.id" class="games__item">
+          <!-- TODO: add overlay mobile screen -->
+          <video class="games__video" loop preload="metadata">
             <source :src="game.video" type="video/mp4" />
             This browser does not support video :(
           </video>
           <div class="container">
             <div>
-              <img :src="game.boxart" :alt=game.name />
-              <p><span>Platform</span> {{ game.platform }}</p>
-              <p title="As of November 2022"><span>Sales</span> {{ game.sales }}</p>
+              <img class="games__boxart" :src="game.boxart" :alt=game.name />
+              <p class="games__platform"><span>Platform</span> {{ game.platform }}</p>
+              <p class="games__sales" title="As of November 2022"><span>Sales</span> {{ game.sales }}</p>
             </div>
             <div class="games__info">
-              <h2>{{ game.name }}</h2>
+              <h2 class="games__title">{{ game.name }}</h2>
               <p class="games__release">{{ game.release }}</p>
               <p class="games__description"> {{ game.description }}</p>
             </div>
@@ -83,13 +77,21 @@
   const observer = new IntersectionObserver(entries => {
     //loop every video
     entries.forEach(entry => {
-      //if video is in viewport play background video, otherwise pause video
       if(entry.isIntersecting) {
-        entry.target.play();
-        entry.target.classList.add('show');
+        entry.target.classList.add('games--enter');
+
+        //prevents users having tinnitus
+        entry.target.firstElementChild.volume = 0.5;
+
+        //if video is in viewport play background video
+        entry.target.firstElementChild.play();
+        entry.target.firstElementChild.classList.add('show');
       } else {
-        entry.target.pause();
-        entry.target.classList.remove('show');
+        entry.target.classList.remove('games--enter');
+
+        //pause current playing video if user leaves section
+        entry.target.firstElementChild.pause();
+        entry.target.firstElementChild.classList.remove('show');
       }
     })
   },

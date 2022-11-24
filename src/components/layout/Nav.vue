@@ -1,7 +1,8 @@
 <template>
   <nav>
     <div class="container">
-      <h1>Top Games</h1>
+      <h1></h1>
+      <!-- TODO: find use for the nav -->
     </div>
   </nav>
 </template>
