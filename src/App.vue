@@ -20,13 +20,21 @@
 
 <template>
   <div>
+    <section class="overlay">
+      <h1></h1>
+      <p></p>
+      <button>Check</button>
+    </section>
+    <!-- TODO: add styling overlay no javascript and make component -->
+    <noscript>
+      please enable your javascript
+    </noscript>
     <Nav />
     <main>
       <header>
         <div class="container">
           <h1>Top {{games.length}} Games according to Metacritic.com</h1>
           <p><a href="https://www.metacritic.com/browse/games/score/metascore/all/all/filtered" target="_blank">metacritic.com</a> & <a href="https://www.vgchartz.com/">vgchartz.com</a></p>
-          <button>check</button>
         </div>
       </header>
       <ul class="games">
@@ -37,12 +45,15 @@
             This browser does not support video :(
           </video>
           <div class="container">
-            <img :src="game.boxart" :alt=game.name />
             <div>
+              <img :src="game.boxart" :alt=game.name />
+              <p><span>Platform</span> {{ game.platform }}</p>
+              <p title="As of November 2022"><span>Sales</span> {{ game.sales }}</p>
+            </div>
+            <div class="games__info">
               <h2>{{ game.name }}</h2>
-              <p>Platform {{ game.platform }}</p>
-              <p>Release {{ game.release }}</p>
-              <p>Sales {{ game.sales }}</p>
+              <p class="games__release">{{ game.release }}</p>
+              <p class="games__description">Super Mario World is a relatively simple game to describe. It’s a Super Mario game, and we all know what that means: Mushrooms; perfect running and jumping action; and a giant world to explore, crammed with secrets. But what sets Super Mario World apart from other 2D Mario games is its irresistible complexity. Subsequent Super Mario games, like the New Super Mario Bros. series, simplified the overworld, trading Super Mario World’s cool hidden paths for linear tracks, largely abandoned the skies and treetops of Super Mario World’s vertical levels for ground-based obstacle courses, and did away with flying almost entirely (capes rule, helicopter hats drool!). Super Mario World is the crescendo to the slow build in technology and game design that started with Super Mario Bros. Let Super Mario World’s placement on this list be a challenge to future game developers. We dare you to make a better game: Puzzling, but not opaque; tough but not intimidating; beautiful, funny, joyful, and universally recognizable.</p>
             </div>
           </div>
         </li>

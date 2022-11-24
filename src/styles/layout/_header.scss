@@ -7,6 +7,12 @@ header {
   align-items: center;
   justify-content: center;
 
+  h1 {
+    font-size: $text-4xl;
+    width: 80%;
+    margin: 0 auto $space-lg;
+  }
+
   a {
     color: $white;
   }
