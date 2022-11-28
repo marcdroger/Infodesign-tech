@@ -9,12 +9,8 @@
 <template>
   <div>
     <Intro />
-    <MobileOverlay />
     <Games />
     <Footer />
+    <MobileOverlay />
   </div>
 </template>
-
-<script>
-
-</script>
