@@ -21,6 +21,7 @@
       </video>
       <div class="container">
         <div>
+          <p class="games__score">{{ game.score }}</p>
           <img class="games__boxart" :src="game.boxart" :alt=game.name />
           <p class="games__platform"><span>Platform</span> {{ game.platform }}</p>
           <p class="games__sales" title="As of November 2022"><span>Sales</span> {{ game.sales }}</p>

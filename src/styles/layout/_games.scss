@@ -19,6 +19,10 @@
       animation: fade-in-top .4s cubic-bezier(.4,0,.2,1) .3s both;
     }
 
+    #{$this}__score {
+      animation: fade-in-left .3s cubic-bezier(.4,0,.2,1) .1s both;
+    }
+
     #{$this}__boxart {
       animation: fade-in-left .3s cubic-bezier(.4,0,.2,1) .1s both;
     }
@@ -87,6 +91,18 @@
       margin-left: $space-2xl;
       height: 352px;
     }
+  }
+
+  &__score {
+    border-radius: 8px 0 8px 0;
+    background-color: $green;
+    font-family: 'Satoshi-Bold';
+    font-size: $text-xl;
+    width: 58px;
+    height: 58px;
+    padding: $space-lg;
+    position: absolute;
+    z-index: 2;
   }
 
   &__boxart {

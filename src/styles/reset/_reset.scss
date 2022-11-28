@@ -21,6 +21,7 @@ html {
 body {
   background-color: #000;
 
+  //hide scrollbars
   &::-webkit-scrollbar {
     display: none;
   }

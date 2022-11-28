@@ -1,9 +1,8 @@
 <script setup>
-  import Nav from './components/layout/Nav.vue';
+  //import components
   import Games from './components/layout/Games.vue';
-  import Footer from './components/layout/Footer.vue';
   import MobileOverlay from './components/layout/MobileOverlay.vue';
-
+  import Footer from './components/layout/Footer.vue';
 </script>
 
 <template>
@@ -23,12 +22,11 @@
       <button class="fade-in-bottom--third" @click="hideOverlay">Dive Into History</button>
     </section>
     <MobileOverlay />
-    <Nav />
     <main>
       <header>
         <div class="container">
           <h1 ref="header__title">The Best Games Ever Made<span>.</span></h1>
-          <p ref="header__paragraph">Let's go back in History. Searching for the best games ever made. From recent to old classics. Nostalgia will be delivered. <br /><span>Scroll down to start the journey</span></p>
+          <p ref="header__paragraph">Let's go back in History and search for the best games ever made. From recent to old classics. Nostalgia will be delivered. <br /><span>Scroll down to start the journey</span></p>
         </div>
       </header>
       <Games />
@@ -40,7 +38,7 @@
 <script>
   export default {
     methods: {
-      //function for hiding the overlay on button click
+      // hide the overlay on button click
       hideOverlay() {
         //add hide class to overlay
         this.$refs.overlay.classList.add('overlay--hide');

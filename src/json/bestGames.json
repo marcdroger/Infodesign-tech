@@ -3,6 +3,7 @@
   {
     "id": 1,
     "name": "The Legend of Zelda: Ocarina of Time",
+    "score": "99",
     "platform": "Nintendo 64",
     "release": "23 November 1998",
     "sales": "7,600,000",
@@ -13,6 +14,7 @@
   {
     "id": 2,
     "name": "Tony Hawk's Pro Skater 2",
+    "score": "98",
     "platform": "PlayStation",
     "release": "20 September 2000",
     "sales": "4,680,000",
@@ -23,6 +25,7 @@
   {
     "id": 3,
     "name": "Grand Theft Auto IV",
+    "score": "98",
     "platform": "PlayStation 3",
     "release": "29 April 2008",
     "sales": "25,000,000",
@@ -33,6 +36,7 @@
   {
     "id": 4,
     "name": "SoulCalibur",
+    "score": "98",
     "platform": "Dreamcast",
     "release": "8 September 1999",
     "sales": "1,000,000",
@@ -43,6 +47,7 @@
   {
     "id": 5,
     "name": "Super Mario Galaxy",
+    "score": "97",
     "platform": "Wii",
     "release": "12 November 2007",
     "sales": "12,800,000",
@@ -53,6 +58,7 @@
   {
     "id": 6,
     "name": "Super Mario Galaxy 2",
+    "score": "97",
     "platform": "Wii",
     "release": "23 April 2010",
     "sales": "7,410,000",
@@ -63,6 +69,7 @@
   {
     "id": 7,
     "name": "Red Dead Redemption 2",
+    "score": "97",
     "platform": "Xbox One",
     "release": "26 October 2018",
     "sales": "46,000,000",
@@ -73,6 +80,7 @@
   {
     "id": 8,
     "name": "Grand Theft Auto V",
+    "score": "97",
     "platform": "PlayStation 3",
     "release": "17 September 2013",
     "sales": "170,000,000",
@@ -83,6 +91,7 @@
   {
     "id": 9,
     "name": "Disco Elysium",
+    "score": "97",
     "platform": "PC",
     "release": "30 March 2021",
     "sales": "2,360,000",
@@ -93,6 +102,7 @@
   {
     "id": 10,
     "name": "The Legend of Zelda: Breath of the Wild",
+    "score": "97",
     "platform": "Switch",
     "release": "3 March 2017",
     "sales": "29,490,000",
@@ -103,6 +113,7 @@
   {
     "id": 11,
     "name": "Tony Hawk's Pro Skater 3",
+    "score": "97",
     "platform": "PlayStation 2",
     "release": "28 October 2001",
     "sales": "4,410,000",
@@ -113,6 +124,7 @@
   {
     "id": 12,
     "name": "Perfect Dark",
+    "score": "97",
     "platform": "Nintendo 64",
     "release": "22 May 2000",
     "sales": "3,200,000",
@@ -123,6 +135,7 @@
   {
     "id": 13,
     "name": "Metroid Prime",
+    "score": "97",
     "platform": "GameCube",
     "release": "17 November 2002",
     "sales": "2,840,000",
@@ -133,6 +146,7 @@
   {
     "id": 14,
     "name": "Grand Theft Auto III",
+    "score": "97",
     "platform": "PlayStation 2",
     "release": "22 October 2001",
     "sales": "14,500,000",
@@ -143,6 +157,7 @@
   {
     "id": 15,
     "name": "Super Mario 64",
+    "score": "97",
     "platform": "Nintendo 64",
     "release": "23 June 1996",
     "sales": "11,910,000",
@@ -153,6 +168,7 @@
   {
     "id": 16,
     "name": "Halo: Combat Evolved",
+    "score": "97",
     "platform": "Xbox",
     "release": "14 November 2001",
     "sales": "5,000,000",
@@ -163,6 +179,7 @@
   {
     "id": 17,
     "name": "Half-Life 2",
+    "score": "96",
     "platform": "PC",
     "release": "16 November 2004",
     "sales": "12,000,000",
@@ -173,6 +190,7 @@
   {
     "id": 18,
     "name": "BioShock",
+    "score": "96",
     "platform": "Xbox 360",
     "release": "21 August 2007",
     "sales": "4,000,000",
@@ -183,6 +201,7 @@
   {
     "id": 19,
     "name": "GoldenEye 007",
+    "score": "96",
     "platform": "Nintendo 64",
     "release": "25 August 1997",
     "sales": "8,090,000",
@@ -193,6 +212,7 @@
   {
     "id": 20,
     "name": "Uncharted 2: Among Thieves",
+    "score": "96",
     "platform": "PlayStation 3",
     "release": "13 October 2009",
     "sales": "6,000,000",
@@ -203,6 +223,7 @@
   {
     "id": 21,
     "name": "Resident Evil 4",
+    "score": "96",
     "platform": "GameCube",
     "release": "11 January 2005",
     "sales": "12,100,000",
@@ -213,6 +234,7 @@
   {
     "id": 22,
     "name": "Batman: Arkham City",
+    "score": "96",
     "platform": "PlayStation 3",
     "release": "18 October 2011",
     "sales": "12,500,000",
@@ -223,6 +245,7 @@
   {
     "id": 23,
     "name": "Tekken 3",
+    "score": "96",
     "platform": "PlayStation",
     "release": "29 April 1998",
     "sales": "8,360,000",
@@ -233,6 +256,7 @@
   {
     "id": 24,
     "name": "Elden Ring",
+    "score": "96",
     "platform": "PC",
     "release": "25 February 2022",
     "sales": "17,500,000",
@@ -243,6 +267,7 @@
   {
     "id": 25,
     "name": "Mass Effect 2",
+    "score": "96",
     "platform": "Xbox 360",
     "release": "26 january 2010",
     "sales": "3,100,000",
@@ -253,6 +278,7 @@
   {
     "id": 26,
     "name": "The Legend of Zelda: Twilight Princess",
+    "score": "96",
     "platform": "GameCube",
     "release": "11 December 2006",
     "sales": "7,260,000",
@@ -263,6 +289,7 @@
   {
     "id": 27,
     "name": "The Elder Scrolls V: Skyrim",
+    "score": "96",
     "platform": "Xbox 360",
     "release": "11 November 2011",
     "sales": "30,000,000",
@@ -273,6 +300,7 @@
   {
     "id": 28,
     "name": "Half-Life",
+    "score": "96",
     "platform": "PC",
     "release": "19 November 1998",
     "sales": "9,300,000",
@@ -283,6 +311,7 @@
   {
     "id": 29,
     "name": "The Legend of Zelda: The Wind Waker",
+    "score": "96",
     "platform": "GameCube",
     "release": "24 March 2003",
     "sales": "4,430,000",
@@ -293,6 +322,7 @@
   {
     "id": 30,
     "name": "Gran Turismo",
+    "score": "96",
     "platform": "PlayStation",
     "release": "30 April 1998",
     "sales": "10,850,000",
@@ -303,6 +333,7 @@
   {
     "id": 31,
     "name": "Metal Gear Solid 2: Sons of Liberty",
+    "score": "96",
     "platform": "PlayStation 2",
     "release": "12 November 2001",
     "sales": "7,000,000",
@@ -313,6 +344,7 @@
   {
     "id": 32,
     "name": "Baldur's Gate II: Shadows of Amn",
+    "score": "95",
     "platform": "PC",
     "release": "24 September 2000",
     "sales": "2,000,000",
@@ -323,6 +355,7 @@
   {
     "id": 33,
     "name": "Grand Theft Auto: San Andreas",
+    "score": "95",
     "platform": "PlayStation 2",
     "release": "26 October 2004",
     "sales": "27,500,000",
@@ -333,6 +366,7 @@
   {
     "id": 34,
     "name": "The Sims",
+    "score": "95",
     "platform": "PC",
     "release": "4 February 2000",
     "sales": "16,000,000",
@@ -343,6 +377,7 @@
   {
     "id": 35,
     "name": "Grand Theft Auto: Vice City",
+    "score": "95",
     "platform": "PlayStation 2",
     "release": "27 October 2002",
     "sales": "17,500,000",
@@ -353,6 +388,7 @@
   {
     "id": 36,
     "name": "LittleBigPlanet",
+    "score": "95",
     "platform": "PlayStation 3",
     "release": "27 October 2008",
     "sales": "4,500,000",
@@ -363,6 +399,7 @@
   {
     "id": 37,
     "name": "Red Dead Redemption",
+    "score": "95",
     "platform": "PlayStation 3",
     "release": "18 May 2010",
     "sales": "23,000,000",
@@ -373,6 +410,7 @@
   {
     "id": 38,
     "name": "Gran Turismo 3: A-Spec",
+    "score": "95",
     "platform": "PlayStation 2",
     "release": "9 July 2001",
     "sales": "14,890,000",
@@ -383,6 +421,7 @@
   {
     "id": 39,
     "name": "Halo 2",
+    "score": "95",
     "platform": "Xbox",
     "release": "9 November 2004",
     "sales": "8,000,000",
@@ -393,6 +432,7 @@
   {
     "id": 40,
     "name": "The Legend of Zelda: Majora's Mask",
+    "score": "95",
     "platform": "Nintendo 64",
     "release": "25 October 2000",
     "sales": "3,360,000",
@@ -403,6 +443,7 @@
   {
     "id": 41,
     "name": "The Last of Us",
+    "score": "95",
     "platform": "PlayStation 3",
     "release": "14 May 2013",
     "sales": "8,150,000",
@@ -413,6 +454,7 @@
   {
     "id": 42,
     "name": "Portal 2",
+    "score": "95",
     "platform": "PC",
     "release": "18 April 2011",
     "sales": "13,060,000",
@@ -423,6 +465,7 @@
   {
     "id": 43,
     "name": "Super Mario Odyssey",
+    "score": "94",
     "platform": "Switch",
     "release": "27 October 2017",
     "sales": "24,400,000",
@@ -433,6 +476,7 @@
   {
     "id": 44,
     "name": "BioShock Infinite",
+    "score": "94",
     "platform": "PlayStation 3",
     "release": "26 March 2013",
     "sales": "11,000,000",
@@ -443,6 +487,7 @@
   {
     "id": 45,
     "name": "Final Fantasy IX",
+    "score": "94",
     "platform": "PlayStation",
     "release": "13 November 2000",
     "sales": "5,830,000",
@@ -453,6 +498,7 @@
   {
     "id": 46,
     "name": "Call of Duty: Modern Warfare 2",
+    "score": "94",
     "platform": "PlayStation 3",
     "release": "10 November 2009",
     "sales": "22,700,000",
@@ -463,6 +509,7 @@
   {
     "id": 47,
     "name": "Rollercoaster Tycoon",
+    "score": "94",
     "platform": "PC",
     "release": "31 March 1999",
     "sales": "4,000,000",
@@ -473,6 +520,7 @@
   {
     "id": 48,
     "name": "Left 4 Dead 2",
+    "score": "94",
     "platform": "PC",
     "release": "17 November 2009",
     "sales": "7,600,000",
@@ -483,6 +531,7 @@
   {
     "id": 49,
     "name": "Devil May Cry",
+    "score": "94",
     "platform": "PlayStation 2",
     "release": "16 October 2001",
     "sales": "2,160,000",
@@ -493,6 +542,7 @@
   {
     "id": 50,
     "name": "Call of Duty 4: Modern Warfare",
+    "score": "94",
     "platform": "PlayStation 3",
     "release": "15 November 2007",
     "sales": "9,410,000",

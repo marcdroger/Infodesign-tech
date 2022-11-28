@@ -27,7 +27,7 @@ npm run dev
 
 Tijdens het project heb ik data verzameld uit deze bronnen en platformen:
 
-- [metacritic.com](https://www.metacritic.com/) - *Scores & Games lijst*
-- [igdb.com](https://www.igdb.com/) - *Boxart & Game informatie*
-- [vgchartz.com](https://www.vgchartz.com/) - *Sales informatie*
+- [metacritic.com](https://www.metacritic.com/) - *Review scores*
+- [igdb.com](https://www.igdb.com/) - *Boxart & Games informatie*
+- [vgchartz.com](https://www.vgchartz.com/) - *Sales & platforms informatie*
 - [ign.com](https://www.ign.com) - *Game beschrijvingen*
