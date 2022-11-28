@@ -1,4 +1,4 @@
-# Best Games Ever Made.
+# 🎮 The Best Games Ever Made 🎮
 
 ![og-image](https://user-images.githubusercontent.com/11356517/204281416-2160fe12-c324-43f6-9018-0259d09a274d.png)
 
@@ -6,12 +6,12 @@
 
 ## 📖 Concept
 
-Welkom bij mijn visual storytelling data visualisatie project. Ik neem je mee op reis door de beste games ooit gemaakt. Van recente tot al 25 jaar oude klassiekers. De nostalgie zal ongetwijfeld je overvallen.
+Welkom bij mijn visual storytelling data visualisatie project. Ik neem je mee op reis door de beste games ooit gemaakt volgens [metacritic](https://www.metacritic.com/). Van recente tot al 25 jaar oude klassiekers. De nostalgie zal ongetwijfeld je overvallen.
 
 ## 🔨 Project Install
 
 Clone de repo naar je lokale pc/laptop met Github Desktop of met een command line tool (CMD/Powershell, jouw voorkeur).
-*De video map is 180MB. Hou daar rekening mee tijdens het clonen* :)
+*De video map is 130MB. Hou daar rekening mee tijdens het downloaden* :)
 
 Als het project clonen gelukt is moet je de volgende commands uitvoeren in de terminal:
 
@@ -23,7 +23,7 @@ npm install
 npm run dev
 ```
 
-## Bronnen
+## 🔬 Bronnen
 
 Tijdens het project heb ik data verzameld uit deze bronnen en platformen:
 
