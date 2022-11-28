@@ -1,6 +1,6 @@
 # 🎮 The Best Games Ever Made 🎮
 
-![og-image](https://user-images.githubusercontent.com/11356517/204281416-2160fe12-c324-43f6-9018-0259d09a274d.png)
+![og-image](https://user-images.githubusercontent.com/11356517/204347334-2e269700-8948-44d8-8dc8-ca60be6eb99b.png)
 
 *Information Design - Tech Track (CMD HvA)*
 
