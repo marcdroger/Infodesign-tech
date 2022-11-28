@@ -13,27 +13,29 @@
 </script>
 
 <template>
-  <ul class="games">
-    <li v-for="game in games" :key="game.id" class="games__item">
-      <video class="games__video" loop preload="metadata">
-        <source :src="game.video" type="video/mp4" />
-        This browser does not support the background video :(
-      </video>
-      <div class="container">
-        <div>
-          <p class="games__score">{{ game.score }}</p>
-          <img class="games__boxart" :src="game.boxart" :alt=game.name />
-          <p class="games__platform"><span>Platform</span> {{ game.platform }}</p>
-          <p class="games__sales" title="As of November 2022"><span>Sales</span> {{ game.sales }}</p>
+  <main>
+    <ul class="games">
+      <li v-for="game in games" :key="game.id" class="games__item">
+        <video class="games__video" loop preload="metadata">
+          <source :src="game.video" type="video/mp4" />
+          This browser does not support the background video :(
+        </video>
+        <div class="container">
+          <div>
+            <p class="games__score">{{ game.score }}</p>
+            <img class="games__boxart" :src="game.boxart" :alt=game.name />
+            <p class="games__platform"><span>Platform</span> {{ game.platform }}</p>
+            <p class="games__sales" title="As of November 2022"><span>Sales</span> {{ game.sales }}</p>
+          </div>
+          <div class="games__info">
+            <h2 class="games__title">{{ game.name }}</h2>
+            <p class="games__release">{{ game.release }}</p>
+            <p class="games__description"> {{ game.description }}</p>
+          </div>
         </div>
-        <div class="games__info">
-          <h2 class="games__title">{{ game.name }}</h2>
-          <p class="games__release">{{ game.release }}</p>
-          <p class="games__description"> {{ game.description }}</p>
-        </div>
-      </div>
-    </li>
-  </ul>
+      </li>
+    </ul>
+  </main>
 </template>
 
 <script>
