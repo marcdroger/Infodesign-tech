@@ -33,11 +33,7 @@
       </audio>
       <button class="fade-in-bottom--third" @click="hideOverlay">Dive Into History</button>
     </section>
-
-    <!-- TODO: prevent scroll on first overlay?-->
-
     <MobileOverlay />
-
     <Nav />
     <main>
       <header>
@@ -48,7 +44,6 @@
       </header>
       <ul class="games">
         <li v-for="game in games" :key="game.id" class="games__item">
-          <!-- TODO: add overlay mobile screen -->
           <video class="games__video" loop preload="metadata">
             <source :src="game.video" type="video/mp4" />
             This browser does not support video :(

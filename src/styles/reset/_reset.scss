@@ -20,6 +20,12 @@ html {
 
 body {
   background-color: #000;
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+
+  scrollbar-width: none;
 }
 
 ul,
