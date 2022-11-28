@@ -16,14 +16,14 @@ header {
     width: 750px;
     filter: blur(40px);
     background-image: linear-gradient($gold, $black);
-    animation: rotate 50s cubic-bezier(0.8, 0.2, 0.2, 0.8) alternate infinite;
+    animation: rotate 40s cubic-bezier(0.8, 0.2, 0.2, 0.8) alternate infinite;
     border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
   }
 
   h1 {
     font-size: $text-7xl;
     width: 700px;
-    margin: 0 auto $space-lg;
+    margin: 0 auto $space-xl;
     line-height: 1.1;
 
     span {
@@ -32,19 +32,12 @@ header {
   }
 
   p {
-    font-size: $space-xl;
+    font-size: $text-2xl;
+    width: 50%;
+    margin: 0 auto;
+
+    span {
+      color: $white-off;
+    }
   }
 }
-
-@keyframes rotate {
-  0% {
-    transform: rotate(0deg);
-    border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
-  }
-
-  100% {
-    transform: rotate(360deg);
-    border-radius: 70% 30% 30% 70% / 30% 30% 70% 70%;
-  }
-}
-
