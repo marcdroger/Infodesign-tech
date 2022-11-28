@@ -47,4 +47,23 @@
   button {
     margin-top: $space-lg;
   }
+
+  &__mobile {
+    display: none;
+    z-index: 9999;
+    position: fixed;
+
+    h1 {
+      font-size: $text-3xl;
+      position: absolute;
+      margin: 0 auto;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+
+    @media screen and (max-width: $viewport-md) {
+      display: block;
+    }
+  }
 }

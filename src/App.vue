@@ -3,6 +3,7 @@
 
   import Nav from './components/layout/Nav.vue';
   import Footer from './components/layout/Footer.vue';
+  import MobileOverlay from './components/layout/MobileOverlay.vue';
 
   onMounted(() => {
     //get all games once vue has rendered
@@ -34,6 +35,8 @@
     </section>
 
     <!-- TODO: prevent scroll on first overlay?-->
+
+    <MobileOverlay />
 
     <Nav />
     <main>
