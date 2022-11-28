@@ -5,7 +5,7 @@
     //get all games once vue has rendered
     const gamesList = document.querySelectorAll('.games__item');
 
-    //observe every game item
+    //observe every game item for observer API
     gamesList.forEach(game => {
       observer.observe(game);
     })
@@ -42,7 +42,7 @@
   //import json file with games data
   import json from './../../json/bestGames.json';
 
-  //create the observer api for checking if game item is in viewport user
+  //create the observer api for checking if game item is in viewport of the user
   const observer = new IntersectionObserver(entries => {
     //loop through every game
     entries.forEach(entry => {
