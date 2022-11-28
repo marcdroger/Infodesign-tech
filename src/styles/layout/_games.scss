@@ -8,31 +8,31 @@
   //modifier transition animations for when user is in viewport of game
   &--enter {
     #{$this}__title {
-      animation: fade-in-top .2s cubic-bezier(.4,0,.2,1) .1s both;
+      animation: fade-in-top .4s cubic-bezier(.4,0,.2,1) .4s both;
     }
 
     #{$this}__release {
-      animation: fade-in-top .3s cubic-bezier(.4,0,.2,1) .2s both;
+      animation: fade-in-top .4s cubic-bezier(.4,0,.2,1) .5s both;
     }
 
     #{$this}__description {
-      animation: fade-in-top .4s cubic-bezier(.4,0,.2,1) .3s both;
+      animation: fade-in-top .4s cubic-bezier(.4,0,.2,1) .6s both;
     }
 
     #{$this}__score {
-      animation: fade-in-left .3s cubic-bezier(.4,0,.2,1) .1s both;
+      animation: fade-in-left .4s cubic-bezier(.4,0,.2,1) .6s both;
     }
 
     #{$this}__boxart {
-      animation: fade-in-left .3s cubic-bezier(.4,0,.2,1) .1s both;
+      animation: fade-in-left .4s cubic-bezier(.4,0,.2,1) .6s both;
     }
 
     #{$this}__platform {
-      animation: fade-in-left .4s cubic-bezier(.4,0,.2,1) .2s both;
+      animation: fade-in-left .4s cubic-bezier(.4,0,.2,1) .7s both;
     }
 
     #{$this}__sales {
-      animation: fade-in-left .5s cubic-bezier(.4,0,.2,1) .3s both;
+      animation: fade-in-left .4s cubic-bezier(.4,0,.2,1) .8s both;
     }
   }
 
@@ -73,7 +73,7 @@
     position: absolute;
     top: 0;
     left: 0;
-    transition: opacity 0.8s ease-in-out;
+    transition: opacity 1s ease-in-out;
     opacity: 0;
 
     &.show {
@@ -103,20 +103,16 @@
     padding: $space-lg;
     position: absolute;
     z-index: 2;
+    opacity: 0;
   }
 
   &__boxart {
     border-radius: 8px;
-    cursor: pointer;
     margin-bottom: $space-lg;
     transition: transform 0.1s ease;
     height: 352px;
     width: 264px;
     opacity: 0;
-
-    &:hover {
-      transform: scale(1.1)
-    }
   }
 
   &__title {

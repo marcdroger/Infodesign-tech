@@ -3,7 +3,6 @@
 ## Project
 
 + Add final end section after 50 games + add interactive data d3?
-+ Add scroll snap
 
 ## Assignment
 

@@ -1,0 +1,9 @@
+html,
+body {
+  scroll-snap-type: y mandatory;
+}
+
+header,
+.games__item {
+  scroll-snap-align: start;
+}
