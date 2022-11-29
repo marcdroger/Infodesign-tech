@@ -8,6 +8,8 @@
 
 Welkom bij mijn visual storytelling data visualisatie project. Ik neem je mee op reis door de beste games ooit gemaakt volgens [metacritic](https://www.metacritic.com/). Van recente tot al 25 jaar oude klassiekers. De nostalgie zal ongetwijfeld je overvallen.
 
+Het ontwikkel proces van dit project kan je lezen in de [wiki](https://github.com/marcdroger/Infodesign-tech/wiki).
+
 ## 🔨 Project Install
 
 Clone de repo naar je lokale pc/laptop met Github Desktop of met een command line tool (CMD/Powershell, jouw voorkeur).
@@ -31,3 +33,4 @@ Tijdens het project heb ik data verzameld uit deze bronnen en platformen:
 - [igdb.com](https://www.igdb.com/) - *Boxart & Games informatie*
 - [vgchartz.com](https://www.vgchartz.com/) - *Sales & platforms informatie*
 - [ign.com](https://www.ign.com) - *Game beschrijvingen*
+- [youtube.com](https://www.youtube.com) - *Gameplay video's*
