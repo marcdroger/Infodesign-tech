@@ -18,11 +18,15 @@ Clone de repo naar je lokale pc/laptop met Github Desktop of met een command lin
 Als het project clonen gelukt is moet je de volgende commands uitvoeren in de terminal:
 
 ```shell
-#install npm packages
+# install npm packages
 npm install
 
 # run project local in de browser
 npm run dev
+
+# build project
+npm run build
+
 ```
 
 ## 🔬 Bronnen
