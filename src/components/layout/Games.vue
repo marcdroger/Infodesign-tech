@@ -16,7 +16,7 @@
   <main>
     <ul class="games">
       <li v-for="game in games" :key="game.id" class="games__item">
-        <video class="games__video" loop preload="none">
+        <video class="games__video" loop preload="metadata">
           <source :src="game.video" type="video/mp4" />
           This browser does not support the background video :(
         </video>
