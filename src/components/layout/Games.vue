@@ -28,7 +28,7 @@
             <p class="games__sales" title="As of November 2022"><span>Sales</span> {{ game.sales }}</p>
           </div>
           <div class="games__info">
-            <h2 class="games__title">{{ game.name }}</h2>
+            <h2 class="games__title">{{ game.id }}<span>:</span> {{ game.name }}</h2>
             <p class="games__release">{{ game.release }}</p>
             <p class="games__description"> {{ game.description }}</p>
           </div>

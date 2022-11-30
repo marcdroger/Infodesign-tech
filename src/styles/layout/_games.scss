@@ -16,7 +16,7 @@
     }
 
     #{$this}__description {
-      animation: fade-in-top .4s cubic-bezier(.4,0,.2,1) .6s both;
+      animation: fade-in-top .4s cubic-bezier(.4,0,.2,1) .7s both;
     }
 
     #{$this}__score {
@@ -73,11 +73,13 @@
     position: absolute;
     top: 0;
     left: 0;
-    transition: opacity 1s ease-in-out;
+    transition: opacity 0.3s ease-in-out, transform 0.5s ease-in-out;
+    transform: scale(0.7);
     opacity: 0;
 
     &.show {
       opacity: 1;
+      transform: scale(1);
     }
   }
 
@@ -118,8 +120,12 @@
   &__title {
     font-size: $text-4xl;
     margin: $space-lg 0 $space-sm;
-    width: 65%;
+    width: 70%;
     opacity: 0;
+
+    span {
+      color: $gold;
+    }
   }
 
   &__info {

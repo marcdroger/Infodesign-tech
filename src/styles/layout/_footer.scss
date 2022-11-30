@@ -1,9 +1,29 @@
 footer {
   color: $white;
-  padding: $space-2xl 0;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   text-align: center;
+  flex-direction: column;
+
+  h2 {
+    font-size: $text-4xl;
+    width: 600px;
+
+    span {
+      color: $gold;
+    }
+  }
+
+  p {
+    font-size: $text-lg;
+    margin: $space-lg 0;
+  }
 
   a {
-    color: $white;
+    color: $gold;
+    font-size: $text-lg;
   }
 }

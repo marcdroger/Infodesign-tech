@@ -13,10 +13,10 @@
     </audio>
     <button class="fade-in-bottom--third" @click="hideOverlay">Dive Into History</button>
   </section>
-  <header>
+  <header id="header">
     <div class="container">
       <h1 ref="header__title">The Best Games Ever Made<span>.</span></h1>
-      <p ref="header__paragraph">Let's go back in History and search for the best games ever made. From recent hits to old classics. Nostalgia will be delivered. <br /><span>Scroll down to start the journey</span></p>
+      <p ref="header__paragraph">Let's go back in History and search for the top 50 best games ever made. From recent hits to old classics. Nostalgia will be delivered. <br /><span>Scroll down to start the journey</span></p>
     </div>
   </header>
 </template>
