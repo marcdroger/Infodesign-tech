@@ -3,7 +3,7 @@
     <h1 class="fade-in-top">This storytelling project is best experienced<span>:</span></h1>
     <ul class="fade-in-top">
       <li>On a mid/large screen. (laptop/computer).</li>
-      <li>In a modern browser such as Chrome/Firefox/Safari.</li>
+      <li>In a modern browser(Chrome preferred)</li>
       <li>While wearing headphones or sound on.</li>
       <li>In fullscreen mode (press F11 on Windows/ ⌃⌘F on MacOs).</li>
     </ul>
